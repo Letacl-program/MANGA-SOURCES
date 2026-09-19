@@ -473,7 +473,7 @@ Height and bust can vary independently, although they are generally linked. Flui
 
 Melva's stated age should be interpreted using the established human/social age convention rather than as a direct biological conversion. Species-level maturation may occur on a much faster internal timescale.
 
-- Sexual maturity occurs at approximately, but not quite, 20 years.
+- Sexual maturity occurs at approximately **2 years** under optimal developmental conditions, consistent with the species-level Slime maturation model.
 - It is a gradual process with a clear transition at the first reproductive period.
 - Before maturity, a young Slime can consciously practise core regeneration.
 - Youthful regeneration without reproductive consequences is replaced at maturity by reproductive capability.
