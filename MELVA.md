@@ -4,6 +4,7 @@
 **Species:** Slime  
 **Form:** humanoid Slime, partially fluid anatomy  
 **Age:** 25  
+**Age interpretation:** the stated age is the established human/social interpretation of Melva's age; it should not be read as a direct conversion of the species' biological maturation clock.  
 **Name:** Melva  
 **T-POSE Source:** `SLIME-001.png` on branch `Letacl-program-T-POSE`  
 **T-POSE SHA:** `4c46c7d0a289f5884c6792a3e712e2b167305092`
@@ -127,6 +128,8 @@
 
 ## 4. Core
 
+- The core is the center of Melva's consciousness, memory and identity.
+- Her Slime mass is the executive body, sensory system and carrier of procedural/muscle memory.
 - Large, ideal spherical, smooth, pearlescent core.
 - Dark pearl colour contrasting with green Slime.
 - Floats mainly in the heart region.
@@ -141,7 +144,8 @@
 - In extreme danger Melva may consciously sacrifice part of the core to save the remainder.
 - Complete core destruction causes a brief final loss of consciousness followed by collapse into inert liquid.
 - The inert liquid has no consciousness and cannot recreate the original character/core; it can be absorbed or used as material by another Slime/being.
-- Consciousness is distributed through the whole Slime mass; the core is the stabilizer rather than the sole seat of consciousness.
+- If all surrounding mass is lost while the core remains intact, Melva is not dead: the core can enter a dormant state and later reactivate in suitable mineral-bearing fluid. In isolation the core is extremely fragile and vulnerable to damage.
+- Consciousness, autobiographical memory and identity are centered in the core. The surrounding mass provides the executive body and distributed sensory system rather than being an independent seat of consciousness.
 - Partial core damage may cause temporary memory gaps, but identity and recognition of close people remain.
 - Severe core damage can cause temporary fogging lasting seconds; basic personality remains unchanged.
 
@@ -254,6 +258,7 @@ Height and bust can vary independently, although they are generally linked. Flui
 - If blocked, it can attempt autonomous return; the main mass remains detectable.
 - Return behaviour can route around obstacles and learn from experience.
 - Experience acquired while separated becomes available after rejoining, but Melva consciously chooses how to use it.
+- A fragment has no independent consciousness or identity; its apparent independent behaviour is an extension of the core-centered consciousness and control system.
 - Separated fragments can independently use mineral-derived properties according to the minerals already present.
 - A separated fragment cannot independently absorb/store minerals for the core system; the main mass must transfer minerals by conscious command/direct contact.
 - Thin connected portions preserve full sensation; control precision can decrease with distance/thickness.
@@ -465,6 +470,8 @@ Height and bust can vary independently, although they are generally linked. Flui
 - Personality traits can be inherited from both parents.
 
 ## 16. Maturity & lifespan
+
+Melva's stated age should be interpreted using the established human/social age convention rather than as a direct biological conversion. Species-level maturation may occur on a much faster internal timescale.
 
 - Sexual maturity occurs at approximately, but not quite, 20 years.
 - It is a gradual process with a clear transition at the first reproductive period.
