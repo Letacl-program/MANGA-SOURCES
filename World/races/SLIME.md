@@ -1,6 +1,6 @@
 # SLIME — CORE SPECIES PROFILE
 
-**Status:** WORLD CORE / DRAFT v1.1  
+**Status:** WORLD CORE / DRAFT v1.2  
 **Species ID:** SLIME  
 **Reference:** Melva / SLIME-001 (MELVA.md, branch Letacl-program-T-POSE)  
 **Purpose:** Gatunkowy fundament do szybkiego generowania wiarygodnych postaci Slime.  
@@ -36,7 +36,7 @@ Slime może przyjmować formę zgodną z jego kontrolą i dostępną masą. Typo
 
 ## 3. Core
 
-Większość rozumnych Slime posiada wewnętrzny rdzeń (core), będący centrum świadomości, pamięci i tożsamości oraz kluczowym stabilizatorem organizmu.
+Każdy rozumny Slime posiada wewnętrzny rdzeń (core), będący centrum świadomości, pamięci i tożsamości oraz kluczowym stabilizatorem organizmu.
 
 Typowe właściwości:
 - znajduje się wewnątrz masy,
@@ -156,6 +156,10 @@ Slime z ludzkim pochodzeniem może wyjątkowo łatwo naśladować ludzki wygląd
 ### Learning the body
 
 Praktyczne ograniczenia Slime wynikają w dużej mierze z tego, jak dobrze osobnik nauczył się kontrolować własną strukturę. Eksperymentowanie z własnym ciałem i trening mogą przesuwać praktyczne granice możliwości. Naturalny talent może dawać wyjątkowe predyspozycje w określonej dziedzinie, a rzadki geniusz może przekraczać poziom typowy nawet dla bardzo doświadczonych osobników. Melva jest przykładem osobnika znajdującego się bardzo blisko górnych praktycznych możliwości gatunku w wielu obszarach, ale nie stanowi absolutnego biologicznego limitu.
+
+### Fragmentation
+
+Rozdzielona część masy Slime nie posiada własnego rdzenia, a więc nie jest osobnym świadomym Slime. Może jednak zachowywać się na tyle samodzielnie, że obserwator może pomylić ją z małym lub nietypowym Slime. Szczegółowe granice fragmentacji i sterowania pozostają cechą osobniczą.
 
 ### Common
 - płynna budowa ciała,
@@ -424,17 +428,16 @@ Melva jest obecnie reference case / high-detail specimen dla rozwoju modelu gatu
 
 Do późniejszego ustalenia:
 - dokładna mapa minerałów odpowiedzialnych za kolory rdzenia,
-- pełny model płci i wariantów biologicznych,
-- dokładny standard reprodukcji,
+- pełny model płci i wyjątkowych wariantów biologicznych,
 - szczegółowe tempo regeneracji,
 - granice absorpcji,
 - klasyfikacja odmian Slime,
-- dziedziczenie cech,
-- szczegółowy model rozwoju młodych,
 - relacja Slime z magią,
 - możliwe ewolucje / mutacje,
 - dokładny mechanizm międzygatunkowego zapłodnienia,
-- pełne zasady biologii Królewskiej/Tęczowej Slime,
+- dalsze szczegóły biologii Królewskiej/Tęczowej Slime,
 - dokładne konsekwencje utraty kolejnych rdzeni Królewskiego Fusion.
+
+Ustalone zasady dziedziczenia, rozwoju młodych i podstawowej biologii Królewskiego Fusion nie są już parametrami otwartymi; mogą być jedynie rozszerzane bez zmiany istniejących reguł.
 
 **END OF CORE SPECIES PROFILE**
