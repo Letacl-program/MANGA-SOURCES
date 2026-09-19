@@ -1,6 +1,6 @@
 # SLIME — CORE SPECIES PROFILE
 
-**Status:** WORLD CORE / DRAFT v1.0  
+**Status:** WORLD CORE / DRAFT v1.1  
 **Species ID:** SLIME  
 **Reference:** Melva / SLIME-001 (MELVA.md, branch Letacl-program-T-POSE)  
 **Purpose:** Gatunkowy fundament do szybkiego generowania wiarygodnych postaci Slime.  
@@ -46,7 +46,9 @@ Typowe właściwości:
 - poważne uszkodzenie powoduje ból i zaburzenia kontroli,
 - całkowite zniszczenie rdzenia jest zwykle śmiertelne.
 
-Wygląd, wielkość, kolor i dokładne właściwości rdzenia mogą różnić się między osobnikami.
+Kolor młodej Slime jest determinowany przede wszystkim przez skład mineralny, z którego został zbudowany jej rdzeń. Późniejsza regeneracja rdzenia po narodzinach może ten kolor utrwalić lub modyfikować zgodnie z dostępnym składem mineralnym. Na tym poziomie nie definiujemy jeszcze mapy „minerał → kolor”.
+
+Wygląd, wielkość i dokładne właściwości rdzenia mogą różnić się między osobnikami.
 
 Szczegółowa mobilność rdzenia, granice jego regeneracji i wyjątkowe mechanizmy ochronne Melvy nie są automatycznie cechami wszystkich Slime.
 
@@ -89,7 +91,24 @@ Na poziomie core obowiązuje:
 - dziedziczenie cech,
 - możliwość łączenia cech rodziców,
 - potomstwo nie musi być kopią żadnego rodzica,
-- rozwój młodego Slime zależy od rdzenia i dostępnych zasobów.
+- rozwój młodej Slime zależy od rdzenia i dostępnych zasobów,
+- młoda Slime może przeżyć bez matki, jeżeli ma dostęp do odpowiednich płynów i minerałów,
+- obecność matki i dostęp do jej zasobów znacząco przyspieszają rozwój oraz ułatwiają rozwój społeczny i naukę.
+
+### Rozwój młodej Slime
+
+Rozwój Slime przebiega średnio około **10× szybciej niż rozwój człowieka**.
+
+W optymalnych warunkach młoda Slime może osiągnąć dojrzałość płciową w przybliżeniu w ciągu **2 lat**.
+
+Tempo to nie jest gwarantowanym zegarem biologicznym. Ograniczony dostęp do zasobów, brak opieki, osierocenie lub trudne warunki mogą:
+- opóźnić osiągnięcie dojrzałości,
+- ograniczyć rozwój masy,
+- ograniczyć rozwój kontroli ciała,
+- opóźnić rozwój społeczny i językowy,
+- sprawić, że młoda Slime będzie wyraźnie słabsza od rówieśniczek rozwijających się w dobrych warunkach.
+
+Młoda Slime jest więc biologicznie zdolna do samodzielnego przetrwania, ale **samodzielne przetrwanie nie oznacza optymalnego rozwoju**.
 
 Szczegółowe zasady reprodukcji Melvy należy traktować jako rozwinięcie specyficzne dla humanoidalnych Slime, dopóki szerszy standard gatunkowy nie zostanie ustalony.
 
@@ -188,12 +207,18 @@ Status społeczny może zależeć m.in. od wieku, doświadczenia, kontroli włas
 
 Nie zakładamy jednej globalnej kultury Slime.
 
+### Zagrożenie gatunkowe
+
+W sytuacji skrajnego zagrożenia całej rasy może powstać szczególny mechanizm społeczno-biologiczny: **Królewski Fusion**.
+
+Nie jest to zwykła metoda rozwoju ani standardowa forma życia. Jest to ostateczna decyzja grupy pięciu Slime, podejmowana wspólnie, gdy uznają, że połączenie jest jedynym sposobem ochrony gatunku.
+
 ## 12. Lifespan
 
 Slime nie muszą starzeć się tak jak ludzie.
 
 Podstawowy model:
-- rozwój młodego osobnika,
+- bardzo szybki rozwój młodej Slime,
 - dojrzewanie,
 - bardzo długi okres dorosłości,
 - stopniowa degradacja organizmu związana głównie ze stanem rdzenia i regeneracją.
@@ -238,7 +263,82 @@ Slime może rozwijać się poprzez:
 
 Nie definiujemy jeszcze XP, poziomów ani klas. Profil pozostaje kompatybilny z przyszłym modułem RPG.
 
-## 15. Relation to Melva / SLIME-001
+## 15. Fusion
+
+### Standard Fusion
+
+Standardowy Fusion jest tymczasowym połączeniem dwóch kompatybilnych Slime.
+
+Podstawowe zasady:
+- wymaga wzajemnej zgody,
+- powstaje nowa, tymczasowa świadomość,
+- rdzenie pozostają oddzielne,
+- obie jednostki zachowują pamięć doświadczenia po rozdzieleniu,
+- Fusion nie jest zwykłą formą alternatywną żadnego z partnerów,
+- szczegółowe limity i sloty mogą być rozwijane w systemie postaci.
+
+### Królewski Fusion
+
+**Królewski Fusion** jest wyjątkowym, permanentnym połączeniem dokładnie **pięciu Slime**.
+
+Preferowanym, lecz wyłącznie kosmetycznym wariantem jest połączenie pięciu różnych kolorów. Kolor nie jest warunkiem aktywacji.
+
+Połączenie tworzy nowy byt określany roboczo jako **Tęczowa Slime**.
+
+#### Budowa
+- wszystkie pięć rdzeni pozostaje oddzielnych,
+- rdzenie nie łączą się,
+- orbitują w okolicy serca,
+- ich naturalnym układem jest pięciokąt,
+- masa nowego organizmu odpowiada początkowo skumulowanej masie wszystkich pięciu uczestniczek,
+- rozmiar i proporcje mogą być kształtowane przez nową świadomość zgodnie z możliwościami wynikającymi z połączonej masy.
+
+#### Świadomość
+- świadomość pięciu Slime zostaje połączona,
+- powstaje nowy byt z jedną wspólną świadomością,
+- nie jest to pięć osób sterujących jednym ciałem,
+- nowa istota zachowuje dziedzictwo pamięci i osobowości wszystkich pięciu uczestniczek, ale funkcjonuje jako nowa całość.
+
+#### Permanentność
+Królewski Fusion jest **nieodwracalny w normalnych warunkach**. Nie posiada odpowiednika zwykłego rozdzielenia Fusion.
+
+#### Życie i rdzenie
+Długość życia jest proporcjonalnie wydłużona dzięki pięciu rdzeniom.
+
+Utrata jednego rdzenia:
+- oznacza utratę jego odpowiadającej części stabilizacyjnej i ekwiwalentu masy,
+- może oznaczać utratę części zapisanych form i umiejętności,
+- nie usuwa całkowicie pamięci o tej części dziedzictwa.
+
+Pozostałe rdzenie zachowują częściową pamięć utraconych form i umiejętności, dzięki czemu mogą próbować je odtworzyć. Odtworzenie nie osiąga jednak poziomu Master utraconego rdzenia bez odpowiedniego rozwoju.
+
+Utrata kolejnych rdzeni zwiększa ryzyko trwałej utraty możliwości i destabilizacji całego organizmu.
+
+#### Znaczenie społeczne
+Królewski Fusion nie jest metodą zdobywania mocy dla indywidualnej korzyści.
+
+Jest **ostatecznym mechanizmem przetrwania gatunku**, uruchamianym w obliczu zagrożenia egzystencjalnego. Pięć Slime musi zgodnie uznać, że jest to jedyny realny sposób ochrony swojej rasy.
+
+Powstanie Królewskiej/Tęczowej Slime może mieć ogromne znaczenie historyczne, polityczne i kulturowe dla społeczności Slime.
+
+## 16. Reproductive Special Case — Royal Fusion
+
+Królewski Fusion posiada pięć współistniejących rdzeni, dlatego jego proces reprodukcyjny ma charakter szczególny.
+
+W okresie rozrodczym impuls reprodukcyjny jest zwielokrotniony przez obecność pięciu rdzeni. Może to prowadzić do bardzo silnego, trudnego do kontrolowania popędu reprodukcyjnego i zachowań łowieckich.
+
+**Jest to zagrożenie biologiczne, a nie mechanizm przedstawiany jako zwykła forma zalotów.** W skrajnych przypadkach Królowa może stanowić bezpośrednie zagrożenie życia potencjalnego partnera, ponieważ podczas szału reprodukcyjnego może ignorować sygnały wycofania i kontynuować próbę zapłodnienia aż do skutku lub fizycznego wyczerpania ofiary.
+
+### Kompatybilność
+- Rasa partnera nie musi być Slime.
+- Decydująca jest kompatybilność reprodukcyjna, a nie przynależność gatunkowa.
+- Każdy z pięciu rdzeni może uczestniczyć w zapłodnieniu.
+- Preferowane biologicznie jest wykorzystanie wielu różnych partnerów, jeżeli sytuacja na to pozwala.
+- Jedna ciąża/ciąg reprodukcyjny może prowadzić do narodzin większej liczby młodych Slime niż standardowa ciąża pojedynczej Slime.
+
+Szczegółowy mechanizm zapłodnienia międzygatunkowego oraz dziedziczenia zostaje celowo odłożony do osobnego modułu biologii świata.
+
+## 17. Relation to Melva / SLIME-001
 
 Melva jest konkretną jednostką, a nie definicją gatunku.
 
@@ -253,19 +353,21 @@ Przy tworzeniu kolejnego Slime nie kopiujemy całego zestawu Melvy. Każdą cech
 
 Melva jest obecnie reference case / high-detail specimen dla rozwoju modelu gatunkowego.
 
-## 16. Open Parameters
+## 18. Open Parameters
 
 Do późniejszego ustalenia:
+- dokładna mapa minerałów odpowiedzialnych za kolory rdzenia,
 - pełny model płci i wariantów biologicznych,
 - dokładny standard reprodukcji,
-- średni zakres rozmiarów,
-- pełny model rdzenia,
-- dokładne tempo regeneracji,
+- szczegółowe tempo regeneracji,
 - granice absorpcji,
 - klasyfikacja odmian Slime,
 - dziedziczenie cech,
-- dokładny model rozwoju młodych,
+- szczegółowy model rozwoju młodych,
 - relacja Slime z magią,
-- możliwe ewolucje / mutacje.
+- możliwe ewolucje / mutacje,
+- dokładny mechanizm międzygatunkowego zapłodnienia,
+- pełne zasady biologii Królewskiej/Tęczowej Slime,
+- dokładne konsekwencje utraty kolejnych rdzeni Królewskiego Fusion.
 
 **END OF CORE SPECIES PROFILE**
