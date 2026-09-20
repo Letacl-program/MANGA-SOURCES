@@ -263,7 +263,81 @@ Potencjał magiczny nie jest tym samym co aktualna skuteczność.
 
 ---
 
-## 12. Charakter systemu
+## 12. Notatki do dalszego projektowania
+
+Poniższe elementy są **świadomie pozostawione do późniejszego opracowania** i należy je uwzględnić przy dalszym projektowaniu systemu:
+
+### 12.1. Paleta kolorów magii
+
+Należy zaprojektować pełny system kolorów/rezonansów, w tym:
+
+- liczbę podstawowych kolorów;
+- znaczenie każdego koloru;
+- relacje między kolorami;
+- kolory pośrednie i mieszane;
+- możliwość posiadania wielu rezonansów;
+- możliwość zmiany rezonansu;
+- wizualną manifestację koloru;
+- wpływ koloru na kompatybilność ze szkołami;
+- ewentualną rzadkość poszczególnych rezonansów.
+
+### 12.2. Szkoły magii
+
+Należy zaprojektować pełną klasyfikację szkół, uwzględniając:
+
+- specjalizację;
+- dostępne rezonanse;
+- typowe techniki;
+- ograniczenia;
+- koszty;
+- wzajemne zależności;
+- szkoły podstawowe i zaawansowane;
+- możliwość łączenia szkół;
+- różnice między szkołą a pojedynczą techniką.
+
+### 12.3. Balans kolorów i szkół
+
+System powinien zostać zaprojektowany tak, aby różne szkoły i rezonanse miały własną rację bytu.
+
+Żaden kolor ani szkoła nie powinny być automatycznie „najlepsze” we wszystkich zastosowaniach.
+
+Balans powinien wynikać z różnic w:
+
+- zastosowaniu;
+- koszcie;
+- wymaganiach;
+- ryzyku;
+- kompatybilności;
+- możliwościach rozwoju;
+- ograniczeniach sytuacyjnych.
+
+### 12.4. Granice transformacji magicznej
+
+Należy określić:
+
+- co magia może zmienić w organizmie;
+- czego nie może zmienić;
+- kiedy zmiana jest odwracalna;
+- kiedy staje się trwała;
+- kiedy jednostka przestaje należeć do pierwotnego gatunku;
+- czy i jak można odwrócić zmianę natury;
+- jakie są konsekwencje dziedziczne transformacji.
+
+### 12.5. Relacja między naturalną magią a rasą
+
+Należy określić:
+
+- czy każda rasa może mieć naturalnie obdarzonych;
+- czy częstotliwość występowania zależy od rasy;
+- czy naturalny rezonans może być dziedziczny;
+- czy różne rasy mają naturalne predyspozycje do różnych rezonansów;
+- czy istnieją rasy szczególnie silnie związane z określonymi szkołami.
+
+Te punkty są **notatkami projektowymi**, a nie ostatecznymi zasadami świata.
+
+---
+
+## 13. Charakter systemu
 
 System magii ma wspierać dużą różnorodność bez utraty spójności.
 
