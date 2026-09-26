@@ -105,25 +105,27 @@ Odwłok jest jednym z głównych elementów rozpoznawczych Robotnika.
 - Zachowuje przestrzeń dla narządów biologicznych.
 - W widoku tylnym i bocznym jego segmentacja powinna być jednoznacznie czytelna.
 
-## 8. System luminescencji
+## 8. Kompleks organów świetlnych
 
-Robotnik posiada widoczne narządy luminescencji, które w karcie T-POSE są traktowane jako ważny element identyfikacji wizualnej.
+Robotnik posiada widoczny **kompleks organów świetlnych**. W jego przypadku obejmuje on elementy zlokalizowane na szyi, w górnej części klatki piersiowej oraz w obrębie odwłoka.
 
-### 8.1. Organ nad biustem
+W dokumentacji linii rozmieszczenie pozostaje zgodne z zatwierdzoną kartą T-POSE.
+
+### 8.1. Element kompleksu — górna część klatki piersiowej
 
 - Główny organ luminescencji znajduje się **centralnie nad biustem, w górnej części klatki piersiowej**.
 - Ma formę małego, symetrycznego, organicznego elementu.
 - W stanie wyłączonym jest ciemny i nie świeci.
 - W stanie włączonym emituje miękkie światło, zgodne z kolorystyką luminescencji Robotnika.
 
-### 8.2. Organ na szyi
+### 8.2. Element kompleksu — szyja
 
 - Drugi organ znajduje się **centralnie na szyi**, tuż nad klatką piersiową.
 - Jest zintegrowany z powierzchnią ciała/egzoszkieletu.
 - W stanie ON tworzy wyraźny świecący akcent.
 - Nie powinien być traktowany jako biżuteria ani element ubioru.
 
-### 8.3. Organ odwłoka
+### 8.3. Element kompleksu — odwłok
 
 Odwłok posiada **własny, biologiczny organ luminescencji**.
 
@@ -133,7 +135,7 @@ Odwłok posiada **własny, biologiczny organ luminescencji**.
 - W karcie T-POSE pokazuje się go w stanie **OFF** oraz **ON**.
 - Światło ma być miękkie, organiczne i przestrzenne, a nie neonowe.
 
-### 8.4. Stany referencyjne
+### 8.4. Stany referencyjne T-POSE
 
 Karta T-POSE pokazuje dwa podstawowe warianty:
 
@@ -148,7 +150,9 @@ Karta T-POSE pokazuje dwa podstawowe warianty:
 - świeci centralny organ odwłoka,
 - światło delikatnie oświetla sąsiednie powierzchnie.
 
-Nie wymagane są dodatkowe warianty kolorów ani osobne przykłady komunikacji.
+Karta T-POSE pokazuje wyłącznie stany **ON/OFF** oraz jeden reprezentacyjny kolor użyty dla celów prezentacyjnych. Nie jest to pełny opis systemu komunikacji świetlnej.
+
+Znaczenia kolorów, wzory i komunikacja za pomocą luminescencji są definiowane w głównym `INSECTOID.md`. W przyszłości mogą zostać opisane dodatkowe sekwencje znaków świetlnych charakterystyczne dla poszczególnych kolonii.
 
 ## 9. Zmysły i orientacja
 
@@ -173,6 +177,8 @@ Nie wymagane są dodatkowe warianty kolorów ani osobne przykłady komunikacji.
 
 ### Docelowa proporcja wizualna
 **80% człowiek / 20% owad**
+
+Jest to **domyślna zasada wizualnej prezentacji Insectoidów**, stosowana jako punkt wyjścia dla kolejnych linii. Nie zmienia ona biologii rasy opisanej w `INSECTOID.md`.
 
 ### Zasady renderingu
 - czyste kontury,
