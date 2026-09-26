@@ -6,6 +6,18 @@
 **Numer rasy:** 8/12
 
 > Ten plik opisuje wspólne cechy rasy Insectoid: biologię, rozmnażanie, rozwój, komunikację, społeczeństwo kolonijne i podstawowe zasady funkcjonowania linii specjalizacyjnych.
+
+## Domyślny język wizualny rasy
+
+Domyślnym sposobem wizualnej prezentacji Insectoidów jest proporcja:
+
+**80% humanoid / 20% insectoid**
+
+Jest to zasada **prezentacji wizualnej**, a nie uproszczenie ani zmiana biologii rasy. Insectoid powinien być przede wszystkim czytelny jako postać humanoidalna, a cechy owadzie mają stanowić charakterystyczne elementy identyfikujące rasę.
+
+Ten standard obowiązuje jako punkt wyjścia dla nowych linii, kart T-POSE i ilustracji, chyba że późniejszy dokument danej linii wyraźnie określi inną prezentację.
+
+Dokumentacja biologiczna pozostaje nadrzędna wobec uproszczeń wizualnych.
 >
 > Szczegółowe projekty poszczególnych linii są prowadzone w osobnych plikach. **Robotnik** i **Zwiadowca** nie są opisywani tutaj szczegółowo.
 
