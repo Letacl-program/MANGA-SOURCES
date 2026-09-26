@@ -428,11 +428,11 @@ Długość wyprawy zależy m.in. od:
 
 ---
 
-# 20. Luminescencja
+## 20. Kompleks organów świetlnych
 
-Zwiadowca zachowuje pełny system luminescencji Insectoidów.
+Zwiadowca zachowuje pełny system luminescencji Insectoidów. W dokumentacji linii jego widoczne elementy traktowane są jako **kompleks organów świetlnych**.
 
-Wizualna karta T-POSE pokazuje trzy główne obszary narządów luminescencyjnych:
+Wizualna karta T-POSE pokazuje trzy główne obszary kompleksu organów świetlnych:
 
 1. **organ na szyi**,
 2. **organ piersiowy w górnej części klatki piersiowej**,
@@ -491,7 +491,9 @@ Karta T-POSE pokazuje dwa podstawowe warianty:
 - delikatnie oświetla sąsiednie powierzchnie,
 - nie ma wyglądu neonowego.
 
-Nie są wymagane dodatkowe przykłady komunikacji świetlnej.
+Karta T-POSE pokazuje wyłącznie stany **ON/OFF** oraz jeden reprezentacyjny kolor użyty dla celów prezentacyjnych. Nie jest to pełny opis komunikacji świetlnej.
+
+Znaczenia kolorów, wzory i komunikacja za pomocą luminescencji są definiowane w głównym `INSECTOID.md`. W przyszłości mogą zostać opisane dodatkowe sekwencje znaków świetlnych charakterystyczne dla poszczególnych kolonii.
 
 ---
 
