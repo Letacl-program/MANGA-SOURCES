@@ -464,7 +464,7 @@ Odwłok posiada własny biologiczny organ luminescencji.
 
 ---
 
-# 21. Stany luminescencji
+# 21. Stany luminescencji T-POSE
 
 Karta T-POSE pokazuje dwa podstawowe warianty:
 
