@@ -408,7 +408,7 @@ Podstawowy plan ruchowy jest stawonogi, ale liczba i rozmieszczenie kończyn mo�
 
 Wspólne cechy:
 - stawy o budowie stawonogiej,
-- dłonie z trzema głównymi palcami i przeciwstawnym kciukiem,
+- dłonie z **pięcioma palcami**, o czytelnej humanoidalnej funkcjonalności manipulacyjnej,
 - stopy z trzema głównymi palcami zakończonymi pazurami,
 - pazury mogą być częściowo chowane zależnie od linii,
 - kończyny mogą być silnie wyspecjalizowane.
@@ -570,17 +570,16 @@ Jest to:
 
 # 23. Luminescencja
 
-Insectoidy posiadają wyspecjalizowany system biologicznej luminescencji.
+Insectoidy posiadają wyspecjalizowany **kompleks organów świetlnych**.
 
-Podstawowo występują **dwa narządy świetlne**:
-1. narząd w obrębie tułowia,
-2. narząd w końcowej części odwłoka.
+Kompleks może obejmować organy świetlne zlokalizowane w:
+- szyi,
+- tułowiu / klatce piersiowej,
+- odwłoku.
 
-Narządy są zsynchronizowane.
+Liczba, dokładne rozmieszczenie, kształt i wzajemne połączenie widocznych elementów kompleksu mogą różnić się pomiędzy liniami biologicznymi. Robotnik i Zwiadowca zachowują zatwierdzone rozmieszczenie swoich organów opisane w dokumentach linii.
 
-Położenie i dokładny kształt narządu tułowia może zależeć od linii.
-
-Narząd odwłokowy znajduje się przy końcu odwłoka.
+Wspólną zasadą jest biologiczna synchronizacja elementów kompleksu oraz ich funkcjonowanie jako jednego systemu luminescencyjnego.
 
 ## 23.1. Mechanizm
 
