@@ -2,8 +2,8 @@
 
 > **STATUS: SUPERSEDED — NIE UŻYWAĆ DO NOWYCH GENERACJI**
 >
-> Aktualny projekt Robotnika znajduje się w `ROBOTNIK_V2.md`.
-> Ten plik pozostaje wyłącznie jako zapis historycznej wersji projektu.
+> Ten dokument został zastąpiony przez `ROBOTNIK_V2.md`.
+> Zachowano go wyłącznie jako historię wcześniejszego projektu.
 
 Aktualna referencja:
 
