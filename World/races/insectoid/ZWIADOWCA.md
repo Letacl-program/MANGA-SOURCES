@@ -2,8 +2,8 @@
 
 > **STATUS: SUPERSEDED — NIE UŻYWAĆ DO NOWYCH GENERACJI**
 >
-> Aktualny projekt Zwiadowcy znajduje się w `ZWIADOWCA_V2.md`.
-> Ten plik pozostaje wyłącznie jako zapis historycznej wersji projektu.
+> Ten dokument został zastąpiony przez `ZWIADOWCA_V2.md`.
+> Zachowano go wyłącznie jako historię wcześniejszego projektu.
 
 Aktualna referencja:
 
