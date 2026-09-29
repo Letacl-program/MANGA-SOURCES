@@ -17,7 +17,7 @@ Ten dokument nie zastępuje `World/races/INSECTOID.md`. Zestawia aktualne, zatwi
 | Wojownik | ♂ | 2 | 4 | ofensywna walka powietrzna |
 | Bibliotekarz | ♂ | 0 | 0 | wiedza, tradycja, edukacja i archiwizacja |
 | Opiekun / Medyk | specjalizacja | 2 | 0 | opieka, leczenie, rehabilitacja i nadzór nad poczwarkami |
-| Alchemik / Technik | specjalizacja | — | 0 | nauka, eksperymenty, chemia i technologia |
+| Alchemik / Technik | specjalizacja | 2 | 0 | badania, chemia, farmacja i technologia |
 | Dron reprodukcyjny | ♂ | — | — | reprodukcja kolonii |
 | Dowódca | specjalizacja | — | 0 | organizacja i dowodzenie |
 | Budowniczy | specjalizacja | — | 0 | wyspecjalizowane konstrukcje |
