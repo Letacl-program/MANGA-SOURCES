@@ -1,6 +1,6 @@
 # INSECTOID
 
-**Status:** DRAFT — baza rasy  
+**Status:** KANON — baza rasy  
 **Świat:** Manga-GitHub  
 **Gałąź:** `World`  
 **Numer rasy:** 8/12
@@ -1002,9 +1002,17 @@ Jednocześnie wspólne cechy powinny pozwalać rozpoznać wszystkie linie jako p
 
 ## Powiązane pliki
 
-- `World/races/insectoid/HEAD_DESIGN.md` — wcześniejsza dokumentacja głowy Insectoida.
-- `World/races/insectoid/ROBOTNIK.md` — szczegółowy projekt linii Robotnik.
-- `World/races/insectoid/ZWIADOWCA.md` — szczegółowy projekt linii Zwiadowca.
+- `World/races/insectoid/HEAD_DESIGN_V2.md` — aktualny projekt głowy Insectoida.
+- `World/races/insectoid/INSECTOID_INDEX.md` — aktualny indeks linii.
+- `World/races/insectoid/ROBOTNIK_V2.md` — aktualny projekt linii Robotnik.
+- `World/races/insectoid/ZWIADOWCA_V2.md` — aktualny projekt linii Zwiadowca.
+- `World/races/insectoid/STRAZNIK_FEMALE.md` — aktualny projekt Strażniczki.
+- `World/races/insectoid/STRAZNIK_MALE.md` — aktualny projekt Strażnika.
+- `World/races/insectoid/WOJOWNIK_FEMALE.md` — aktualny projekt Wojowniczki.
+- `World/races/insectoid/WOJOWNIK_MALE.md` — aktualny projekt Wojownika.
+- `World/races/insectoid/MAMKA.md` — aktualny projekt Mamki/Niani.
+- `World/races/insectoid/KSIEZNICZKA.md` — aktualny projekt Księżniczki.
+- `World/races/insectoid/KROLOWA.md` — aktualny projekt Królowej.
 - `World/MAGIC.md` — ogólne zasady magii świata.
 
-> **Uwaga:** szczegółowe projekty Robotnika i Zwiadowcy są celowo poza tym dokumentem. Ten plik ma stanowić wspólną bazę biologiczną rasy.
+> **Uwaga:** starsze dokumenty oznaczone jako `SUPERSEDED` są archiwalne. Nowe generacje muszą korzystać z dokumentów V2 lub aktualnych dokumentów konkretnych linii.
