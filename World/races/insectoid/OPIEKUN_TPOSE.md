@@ -1,6 +1,6 @@
 # Opiekun — T-POSE Specification
 
-**Status:** PRZYGOTOWANIE / T-POSE DO WYKONANIA  
+**Status:** KANON — T-POSE PASS  
 **Linia:** specjalizacja medyczno-opiekuńcza  
 **Płeć:** samce i samice  
 **Wzrost:** 160–220 cm  
@@ -11,7 +11,7 @@
 **Anteny:** 1 para  
 **Odwłok:** standardowy, wydłużony i smukły  
 
-> Dokument jest techniczną specyfikacją karty T-POSE. Nie stanowi jeszcze zatwierdzonej karty wizualnej. INSECTOID_INDEX.md nie jest aktualizowany przed PASS karty T-POSE.
+ > Karta T-POSE wersji żeńskiej i męskiej: **PASS**. Dokument pozostaje techniczną specyfikacją zatwierdzonej karty.
 
 ---
 
@@ -253,14 +253,11 @@ Przed wykonaniem karty należy sprawdzić:
 
 ---
 
-## 13. Zasada generowania
+## 13. Status karty
 
-**NIE GENEROWAĆ JESZCZE.**
+**PASS — karta T-POSE wersji żeńskiej i męskiej zatwierdzona.**
 
-Karta T-POSE jest gotowa do wykonania po potwierdzeniu, że specyfikacja pozostaje zgodna z HARD LOCKiem.
-
-Po wygenerowaniu:
-1. audyt T-POSE,
-2. PASS/FAIL,
-3. ewentualne poprawki,
-4. dopiero po PASS aktualizacja INSECTOID_INDEX.md.
+Zatwierdzone poprawki:
+- męska klatka piersiowa jest wyraźnie bardziej męska, szersza i bardziej kanciasta, bez kobiecego zaokrąglenia;
+- Lekarz / Lekarka oraz Ordynator / Ordynatorka mają białe uniformy;
+- Ordynator / Ordynatorka posiada najbardziej rozbudowany biały uniform w hierarchii.
