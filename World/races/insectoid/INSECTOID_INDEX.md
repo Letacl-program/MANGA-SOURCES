@@ -16,7 +16,7 @@ Ten dokument nie zastępuje `World/races/INSECTOID.md`. Zestawia aktualne, zatwi
 | Wojowniczka | ♀ | 2 | 4 | lekka walka powietrzna i wielozadaniowość |
 | Wojownik | ♂ | 2 | 4 | ofensywna walka powietrzna |
 | Bibliotekarz | ♂ | 0 | 0 | wiedza, tradycja, edukacja i archiwizacja |
-| Opiekun / Medyk | specjalizacja | — | 0 | opieka, leczenie i nadzór nad poczwarkami |
+| Opiekun / Medyk | specjalizacja | 2 | 0 | opieka, leczenie, rehabilitacja i nadzór nad poczwarkami |
 | Alchemik / Technik | specjalizacja | — | 0 | nauka, eksperymenty, chemia i technologia |
 | Dron reprodukcyjny | ♂ | — | — | reprodukcja kolonii |
 | Dowódca | specjalizacja | — | 0 | organizacja i dowodzenie |
