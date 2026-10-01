@@ -19,11 +19,11 @@ Ten dokument nie zastępuje `World/races/INSECTOID.md`. Zestawia aktualne, zatwi
 | Opiekun / Medyk | specjalizacja | 2 | 0 | opieka, leczenie, rehabilitacja i nadzór nad poczwarkami |
 | Alchemik / Technik | specjalizacja | 2 | 0 | badania, chemia, farmacja i technologia |
 | Dron reprodukcyjny | ♂ | — | — | reprodukcja kolonii |
-| Dowódca | specjalizacja | — | 0 | organizacja i dowodzenie |
+| Dowódca | ♂ | 2 | 4 | organizacja, dowodzenie i koordynacja |
 | Budowniczy | ♂ | 2 | 0 | budowa, konstrukcje, naprawy i technika |
 | Mag | specjalizacja | — | zależnie od linii | trwała specjalizacja magiczna |
 
-**Uwaga:** Dla linii, które nie zostały jeszcze szczegółowo opracowane, pola anatomii oznaczono jako `—`. Nie oznacza to jeszcze ustalonej liczby kończyn ani skrzydeł. Budowniczy ma ustalone 2 nogi i 0 skrzydeł; jego 4 ręce oraz pozostałe szczegóły anatomii opisuje `BUDOWNICZY.md`. Indeks będzie uzupełniany wraz z opracowywaniem kolejnych linii.
+**Uwaga:** Dla linii, które nie zostały jeszcze szczegółowo opracowane, pola anatomii oznaczono jako `—`. Nie oznacza to jeszcze ustalonej liczby kończyn ani skrzydeł. Dowódca jest biologiczną linią męską: ma 2 nogi i 4 skrzydła; może dowodzić wyznaczonym obszarem kolonii, a osobnik innej linii może jedynie czasowo pełnić funkcję dowódczą bez przemiany biologicznej. Szczegóły opisują `DOWODCA.md`. Budowniczy ma ustalone 2 nogi i 0 skrzydeł; jego 4 ręce oraz pozostałe szczegóły anatomii opisuje `BUDOWNICZY.md`. Indeks będzie uzupełniany wraz z opracowywaniem kolejnych linii.
 
 ## Zasady wspólne
 
