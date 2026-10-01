@@ -1,12 +1,12 @@
 # TRUTEŃ — DRON REPRODUKCYJNY
 
-**Status:** SPECYFIKACJA ROBOCZA — T-POSE DO WYKONANIA  
+**Status:** KANON — T-POSE PASS; CHARACTER LOCK ZATWIERDZONY  
 **Rasa:** Insectoid  
 **Linia:** reprodukcyjna  
 **Płeć:** wyłącznie męska  
 **Gałąź dokumentacji:** `World`
 
-> Dokument porządkuje ustalenia dotyczące Trutnia. Nie jest zatwierdzoną kartą wizualną ani Character Lock. Parametry nieustalone pozostają jawnie oznaczone i nie mogą być uzupełniane domysłem.
+> Karta T-POSE została zaakceptowana przez użytkownika (PASS). Ustalenia wizualne zatwierdzone w karcie nie rozszerzają biologii poza jawnie opisane cechy. Parametry nadal nieustalone pozostają oznaczone i nie mogą być uzupełniane domysłem.
 
 ---
 
@@ -42,9 +42,9 @@ Nie określono dokładnego mechanizmu fizjologicznego ani momentu śmierci. Nie 
 
 ## 4. Sylwetka i koncepcja budowy
 
-Sylwetka Trutnia ma wynikać z logicznego połączenia cech biologicznych linii Dowódcy i Opiekuna, z uwzględnieniem jego odrębnej funkcji reprodukcyjnej.
+Sylwetka Trutnia łączy wizualną smukłość i pionową elegancję Dowódcy z łagodniejszą, organiczną geometrią Opiekuna. Nie kopiuje mechanicznie żadnej z tych linii i zachowuje własną anatomię: 2 ręce, 2 nogi i 4 skrzydła.
 
-Nie oznacza to dosłownego kopiowania żadnej z tych linii ani mechanicznego łączenia ich cech.
+Ogólny przedstawiciel ma łagodny, spokojny i niegroźny charakter wizualny. Kolorystyka pozostaje kolonijna, a ubiór minimalny. Funkcja reprodukcyjna wynika z opisu biologicznego, bez dodatkowych niezatwierdzonych cech zewnętrznych.
 
 Punkt wyjścia dla prezentacji wizualnej rasy pozostaje niezmienny:
 
@@ -86,9 +86,7 @@ Nie należy używać odrzuconych wygenerowanych kart jako wzorca głowy.
 
 ### Odwłok i egzoszkielet
 
-Truteń zachowuje podstawowy plan ciała Insectoidów: głowa, tułów i odwłok. Dokładny kształt, rozmiar i segmentacja odwłoka Trutnia nie zostały w tym dokumencie ostatecznie zatwierdzone.
-
-Nie należy automatycznie przenosić powiększonego odwłoka Królowej lub Mamki.
+Truteń zachowuje podstawowy plan ciała Insectoidów: głowa, tułów i odwłok. Karta PASS przyjmuje odwłok proporcjonalny do smukłej sylwetki, bez przesadnego powiększania. Nie przenosi automatycznie powiększonego odwłoka Królowej lub Mamki. Szczegółowa anatomia wewnętrzna i fizjologia pozostają nieustalone.
 
 ## 6. Kompleks organów świetlnych
 
@@ -98,7 +96,7 @@ Rozmieszczenie i semantyka sygnałów pozostają zgodne z dokumentacją główn�
 
 ## 7. Ubiór i wyposażenie
 
-Nie zatwierdzono jeszcze kanonicznego stroju Trutnia.
+Zatwierdzona karta przedstawia minimalny ubiór, podporządkowany czytelności anatomii. Nie ustanawia munduru, rangi ani wyposażenia.
 
 Ewentualny ubiór nie może:
 - zmieniać anatomii;
@@ -155,18 +153,16 @@ Nie należy uzupełniać tych pól na podstawie samej estetyki, wcześniejszych 
 - [x] Naturalna śmierć po sezonie; nie jest to egzekucja kolonii.
 - [x] Standard wizualny rasy 80% humanoid / 20% insectoid.
 - [x] Głowa według `HEAD_DESIGN_V2.md`.
-- [ ] Pełna specyfikacja wizualna.
-- [ ] Karta T-POSE.
-- [ ] Character Check na podstawie pełnego odczytu karty.
-- [ ] Character Lock po zatwierdzeniu karty.
+- [x] Specyfikacja wizualna ogólnego przedstawiciela.
+- [x] Karta T-POSE zaakceptowana przez użytkownika — PASS.
+- [x] Character Check — PASS.
+- [x] Character Lock zatwierdzony.
 
 ## 11. Zasada statusu
 
-**CHARACTER LOCK: PENDING.**
+**CHARACTER LOCK: PASS — ZATWIERDZONY.**
 
-Ten plik zapisuje ustalenia tekstowe, ale sam nie zatwierdza wyglądu postaci. Karta T-POSE wymaga osobnego wykonania, pełnego odczytu wizualnego i tekstowego, kontroli zgodności oraz jawnego PASS.
-
-Po PASS można zaktualizować `INSECTOID_INDEX.md` i oznaczyć kartę jako zatwierdzone źródło wizualne.
+Użytkownik zaakceptował kartę T-POSE. Karta stanowi zatwierdzoną referencję wizualną ogólnego przedstawiciela Trutnia. Nieustalone parametry biologiczne wymienione w sekcji 9 nadal nie są ustanowione.
 
 ---
 
