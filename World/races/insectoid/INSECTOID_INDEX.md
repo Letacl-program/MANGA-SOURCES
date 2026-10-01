@@ -20,10 +20,10 @@ Ten dokument nie zastępuje `World/races/INSECTOID.md`. Zestawia aktualne, zatwi
 | Alchemik / Technik | specjalizacja | 2 | 0 | badania, chemia, farmacja i technologia |
 | Dron reprodukcyjny | ♂ | — | — | reprodukcja kolonii |
 | Dowódca | specjalizacja | — | 0 | organizacja i dowodzenie |
-| Budowniczy | specjalizacja | — | 0 | wyspecjalizowane konstrukcje |
+| Budowniczy | ♂ | 2 | 0 | budowa, konstrukcje, naprawy i technika |
 | Mag | specjalizacja | — | zależnie od linii | trwała specjalizacja magiczna |
 
-**Uwaga:** Dla linii, które nie zostały jeszcze szczegółowo opracowane, pola anatomii oznaczono jako `—`. Nie oznacza to jeszcze ustalonej liczby kończyn ani skrzydeł. Indeks będzie uzupełniany wraz z opracowywaniem kolejnych linii.
+**Uwaga:** Dla linii, które nie zostały jeszcze szczegółowo opracowane, pola anatomii oznaczono jako `—`. Nie oznacza to jeszcze ustalonej liczby kończyn ani skrzydeł. Budowniczy ma ustalone 2 nogi i 0 skrzydeł; jego 4 ręce oraz pozostałe szczegóły anatomii opisuje `BUDOWNICZY.md`. Indeks będzie uzupełniany wraz z opracowywaniem kolejnych linii.
 
 ## Zasady wspólne
 
