@@ -66,3 +66,22 @@ Pierwszy bardziej świadomy, ale nadal niewinny sygnał, że Szybki przychodzi n
 
 ## Cel strony
 Pokazać, że Szybki zaczyna świadomie zwracać uwagę na Sewen i jej zwyczaje, a Sewen coraz wyraźniej zauważa jego zainteresowanie.
+
+# STRONA 4 — „Mała przerwa”
+### P04 — 6 paneli
+**Status: APPROVED**
+
+**P04-01:** Krótka przerwa w pracy. Sewen stawia na ladzie dwa kubki ciepłego napoju. Jeden przesuwa w stronę Szybkiego. „Zrobiłam też dla ciebie.”
+
+**P04-02:** Szybki spogląda na kubek z lekkim zaskoczeniem, potem na Sewen. „Dziękuję.”
+
+**P04-03:** Sewen opiera dłonie o ladę. „Pomyślałam, że skoro tak dobrze pamiętasz moje zwyczaje, to ja też mogę pamiętać o twoich.”
+
+**P04-04:** Szybki uśmiecha się szerzej. Jego ogon lekko porusza się za nim. „To chyba uczciwe.”
+
+**P04-05:** Oboje piją. Przez chwilę zapada spokojna cisza. Patrzą na siebie ponad kubkami.
+
+**P04-06:** Sewen odwraca wzrok pierwsza, lekko się uśmiechając. Szybki również spuszcza wzrok, ale jego uszy pozostają lekko uniesione.
+
+## Cel strony
+Odwrócić wcześniejszą dynamikę — Sewen zaczyna świadomie odpowiadać na uwagę Szybkiego własnym gestem troski. Relacja przesuwa się o kolejny mały krok, bez deklaracji.
