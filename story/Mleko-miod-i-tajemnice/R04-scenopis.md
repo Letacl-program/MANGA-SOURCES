@@ -231,6 +231,87 @@ Po wypowiedzi następuje krótka pauza.
 ## Cel strony
 Pokazać, że Szybki zaczyna świadomie zwracać uwagę na Sewen i jej zwyczaje, a Sewen coraz wyraźniej zauważa jego zainteresowanie.
 
+## SZCZEGÓŁOWY SCENOPIS — STRONA 3
+
+### Założenie strony
+Strona rozwija sygnał z poprzedniej sceny, ale robi to przez działanie, a nie bezpośrednie słowa. Szybki pamięta poranne zwyczaje Sewen i zaczyna przewidywać jej potrzeby. Sewen zauważa, że jego uwaga wobec niej jest bardziej szczegółowa, niż wynikałoby to ze zwykłej współpracy.
+
+Rytm: spontaniczna pomoc → zauważenie → pytanie Sewen → nieśmiałe wyjaśnienie → delikatna aluzja Szybkiego.
+
+### P03-01 — „Zanim poprosi”
+**Kadr:** średni plan przy stanowisku pracy. Sewen wykonuje swoją poranną czynność przy ladzie. Szybki znajduje się niedaleko.
+
+**Akcja:** zanim Sewen zdąży poprosić o potrzebne narzędzie, Szybki sięga po nie i podaje jej.
+
+**Aktorsko Szybkiego:** spokojny, naturalny gest. Nie wygląda na kogoś, kto chce się pochwalić swoją spostrzegawczością. Lekki uśmiech pokazuje, że po prostu pamiętał.
+
+**Aktorsko Sewen:** początkowo lekko zaskoczona. Bierze narzędzie i spogląda na Szybkiego.
+
+**Dialog:** brak.
+
+**Cel:** pokazać zainteresowanie Szybkiego poprzez konkretną, codzienną pomoc.
+
+### P03-02 — „Wiedziałeś?”
+**Kadr:** średnie zbliżenie Sewen i Szybkiego. Narzędzie pozostaje widoczne między nimi.
+
+**Akcja:** Sewen patrzy najpierw na narzędzie, potem na Szybkiego.
+
+**Dialog Sewen:** „Wiedziałeś, czego będę potrzebować?”
+
+**Aktorsko Sewen:** zaciekawienie połączone z lekkim rozbawieniem. Nie pyta podejrzliwie — naprawdę chce wiedzieć, skąd Szybki to przewidział.
+
+**Aktorsko Szybkiego:** lekko się peszy, bo orientuje się, że jego uwaga została zauważona.
+
+### P03-03 — „Pamiętam”
+**Kadr:** bliższe ujęcie Szybkiego. Sewen pozostaje w części kadru.
+
+**Dialog Szybkiego:** „Pamiętam, co zwykle robisz rano.”
+
+**Aktorsko Szybkiego:** lekki rumieniec, spokojny, szczery ton, niewielki nieśmiały uśmiech, spojrzenie skierowane na Sewen. Nie powinien brzmieć, jakby celowo próbował flirtować. To raczej szczere przyznanie się do tego, że zwraca na nią uwagę.
+
+**Cel:** Szybki zaczyna świadomie ujawniać, że zapamiętuje jej zwyczaje.
+
+### P03-04 — „Pamiętasz takie rzeczy?”
+**Kadr:** spokojne średnie zbliżenie Sewen.
+
+**Akcja:** Sewen przez chwilę przygląda się Szybkiemu. W jej reakcji pojawia się wyraźniejsze zainteresowanie.
+
+**Dialog Sewen:** „Pamiętasz takie rzeczy?”
+
+**Aktorsko Sewen:** lekko zaskoczona, ale ciepła. Można delikatnie unieść brew lub przechylić głowę.
+
+**Aktorsko Szybkiego:** po tym pytaniu robi się odrobinę bardziej zawstydzony. Nie cofa się jednak ani nie próbuje zmienić tematu.
+
+**Cel:** Sewen zaczyna rozumieć skalę jego uwagi wobec niej.
+
+### P03-05 — „Niektóre łatwo zapamiętać”
+**Kadr:** średni plan obojga przy pracy. Szybki wraca do swoich obowiązków, ale jeszcze odpowiada Sewen.
+
+**Dialog Szybkiego:** „Niektóre łatwo zapamiętać.”
+
+**Aktorsko Szybkiego:** wypowiada to bezpośrednio, ale nieśmiało. Po zdaniu wraca do pracy. Uszy lekko się unoszą, zdradzając jego zadowolenie.
+
+**Aktorsko Sewen:** przez chwilę pozostaje nieruchoma, patrząc na niego. Na jej twarzy pojawia się delikatny, ciepły uśmiech.
+
+**Zakończenie:** Sewen nie komentuje już jego słów. Pozostaje z tym małym, ale znaczącym sygnałem.
+
+### Rytm emocjonalny strony
+1. Szybki pomaga Sewen bez proszenia.
+2. Sewen zauważa, że przewidział jej potrzebę.
+3. Szybki przyznaje, że pamięta jej poranne zwyczaje.
+4. Sewen uświadamia sobie, że zwraca na nią szczególną uwagę.
+5. Odpowiedź Szybkiego „Niektóre łatwo zapamiętać” pozostawia między nimi ciepłą, niejednoznaczną chwilę.
+
+### Kontrola ciągłości
+- Bezpośrednia kontynuacja stron 1–2.
+- Nadal poranek i praca w mleczarni.
+- Relacja rozwija się przez uwagę i codzienną pomoc, bez gwałtownego przyspieszenia.
+- Szybki pozostaje nieśmiały i nie składa bezpośredniej deklaracji.
+- Sewen coraz wyraźniej rozumie jego zainteresowanie.
+- Brak pocałunku i brak bezpośredniego kontaktu romantycznego.
+- Strona przygotowuje emocjonalnie późniejszy gest Sewen na stronie 4.
+- Styl: Cartoon — mocno uproszczony.
+
 # STRONA 4 — „Mała przerwa”
 ### P04 — 6 paneli
 **Status: APPROVED**
