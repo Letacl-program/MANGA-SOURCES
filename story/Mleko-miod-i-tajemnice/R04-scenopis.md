@@ -174,3 +174,26 @@ Pierwsze bardziej bezpośrednie przyznanie, że Szybki chce być blisko Sewen, a
 
 ## Cel strony
 Doprowadzić ich do najmniejszego dotąd dystansu, ale bez pocałunku. Oboje świadomie akceptują bliskość i nie próbują jej przerwać. Ostatni panel ma stworzyć naturalny punkt wyjścia dla przypadkowego zdarzenia na stronie 10.
+
+
+# STRONA 10 — „Pierwszy pocałunek”
+### P10 — 5 paneli
+**Status: APPROVED**
+
+**P10-01:** Szybki próbuje sięgnąć po przedmiot, który Sewen wcześniej odkładała. Robi niewielki krok do przodu, a Sewen w tym samym momencie pochyla się, żeby mu go podać.
+
+**P10-02:** Ich ruchy nakładają się. Na krótką chwilę przypadkowo stykają się ustami. Oboje natychmiast zamierają.
+
+**P10-03:** Odsuwają się o kilka centymetrów. Szybki ma szeroko otwarte oczy i wyraźnie podniesione uszy. Sewen jest równie zaskoczona; przez moment żadne z nich nie wie, co powiedzieć.
+
+**P10-04:** Szybki cicho: „Ja… przepraszam.”
+
+Sewen po chwili, z lekkim zakłopotanym uśmiechem: „Tym razem naprawdę nie masz za co.”
+
+**P10-05:** Oboje stoją obok siebie w ciszy. Szybki spuszcza wzrok, ale jego ogon lekko się porusza. Sewen patrzy na niego ciepło. Po chwili wracają do pracy — nadal trochę zawstydzeni, ale żadne nie próbuje uciec od drugiego.
+
+## Cel strony
+Kulminacja rozdziału: krótki, przypadkowy i niewinny pocałunek, po którym oboje są zaskoczeni, lecz nie odrzucają tego wydarzenia. Nie stają się nagle parą. Zakończenie pozostawia między nimi nową, wyraźną świadomość tego, co właśnie się wydarzyło.
+
+### ZAKOŃCZENIE ROZDZIAŁU
+Wszystkie 10 stron scenopisu R04 jest zaakceptowanych. Rozdział pozostaje zapisany jako **W TOKU** do czasu dalszego etapu pracy nad projektem.
