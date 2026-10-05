@@ -85,3 +85,20 @@ Pokazać, że Szybki zaczyna świadomie zwracać uwagę na Sewen i jej zwyczaje,
 
 ## Cel strony
 Odwrócić wcześniejszą dynamikę — Sewen zaczyna świadomie odpowiadać na uwagę Szybkiego własnym gestem troski. Relacja przesuwa się o kolejny mały krok, bez deklaracji.
+
+# STRONA 5 — „Nie tylko przypadek”
+### P05 — 5 paneli
+**Status: APPROVED**
+
+**P05-01:** Szybki niesie niewielką skrzynkę. Sewen podchodzi, żeby pomóc. Ich dłonie niemal jednocześnie chwytają uchwyt.
+
+**P05-02:** Oboje zatrzymują ruch. Patrzą na swoje dłonie, potem na siebie. Szybki lekko się rumieni, Sewen uśmiecha się nieśmiało.
+
+**P05-03:** Sewen puszcza uchwyt pierwsza. „Ty weź z tej strony.”
+
+**P05-04:** Szybki kiwa głową. „Dobrze.” Ruszają razem, niosąc skrzynkę.
+
+**P05-05:** Przy odkładaniu skrzynki znów na moment spotykają się spojrzeniami. Tym razem żadne nie odwraca wzroku od razu.
+
+## Cel strony
+Pokazać, że fizyczna bliskość zaczyna być dla nich naturalniejsza. To kolejny krok przed późniejszym, przypadkowym pocałunkiem, ale **bez jego zapowiedzi i bez przyspieszania kulminacji**.
