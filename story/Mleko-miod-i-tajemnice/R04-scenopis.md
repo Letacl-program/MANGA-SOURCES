@@ -113,6 +113,107 @@ Poranek przed mleczarnią. Scena jest spokojna i obserwacyjna. Spotkanie nadal w
 ## Cel strony
 Pierwszy bardziej świadomy, ale nadal niewinny sygnał, że Szybki przychodzi nie tylko do pracy.
 
+## SZCZEGÓŁOWY SCENOPIS — STRONA 2
+
+### Założenie strony
+Akcja przechodzi do wnętrza mleczarni. Po poprzedniej stronie, na której Sewen zauważyła, że Szybki czekał właśnie na nią, tutaj pojawia się pierwszy bardziej świadomy sygnał z jego strony. Szybki nie mówi wprost, że przyszedł dla Sewen — sugeruje to półsłówkiem. Sewen rozumie aluzję i reaguje ciepło, ale bez przesadnego romantyzowania.
+
+Rytm: wspólne rozpoczęcie pracy → zauważenie zaangażowania Szybkiego → żart Sewen → nieśmiała aluzja Szybkiego → zrozumienie Sewen → ciche zadowolenie obojga.
+
+### P02-01 — Wspólny początek dnia
+**Kadr:** średnio-szeroki plan wnętrza mleczarni. Sewen właśnie otworzyła drzwi i wchodzi do środka. Szybki wchodzi tuż za nią.
+
+**Kompozycja:** Sewen jest pierwsza w kadrze, Szybki kilka kroków za nią. W tle widoczne elementy codziennego wyposażenia mleczarni i lada.
+
+**Aktorsko Sewen:** pogodna, swobodna po rozmowie z poprzedniej strony. Zerka przez ramię na Szybkiego z lekkim, ciepłym uśmiechem.
+
+**Aktorsko Szybkiego:** dobry nastrój, lekko zawstydzony, ale wyraźnie zadowolony, że idzie razem z Sewen.
+
+**Dialog:** brak.
+
+### P02-02 — „Wyjątkowo wcześnie”
+**Kadr:** średni plan przy ladzie. Szybki przygotowuje stanowisko pracy. Część produktów jest już przygotowana, mimo że dzień dopiero się zaczyna.
+
+**Akcja:** Szybki sprawnie układa produkty i przygotowuje ladę. Sewen jest w drugim planie lub podchodzi bliżej i zauważa jego wcześniejsze przygotowania.
+
+**Aktorsko Szybkiego:** pracowity i skupiony, ale z delikatnym zadowoleniem. Nie zachowuje się tak, jakby chciał się popisywać — robi to naturalnie.
+
+**Aktorsko Sewen:** zauważa, że Szybki nie tylko pojawił się wcześnie, ale zdążył już przygotować część rzeczy. Pojawia się na jej twarzy lekko rozbawione zainteresowanie.
+
+**Dialog:** brak.
+
+### P02-03 — „Lubisz tę pracę”
+**Kadr:** średnie zbliżenie Sewen i Szybkiego przy ladzie.
+
+**Akcja:** Sewen podchodzi do Szybkiego. Szybki nadal zajmuje się przygotowaniem stanowiska.
+
+**Dialog Sewen:** „Ty to chyba naprawdę lubisz tę pracę.”
+
+**Aktorsko Sewen:** lekko rozbawiony, ciepły ton. To nie jest oskarżenie ani żart złośliwy — Sewen zaczyna podejrzewać, że jego wyjątkowo wczesne przyjście może mieć drugi powód.
+
+**Aktorsko Szybkiego:** na chwilę zatrzymuje wykonywaną czynność. Spogląda na Sewen, lekko zaskoczony jej komentarzem.
+
+**Cel:** stworzyć naturalne otwarcie dla jego odpowiedzi z podwójnym znaczeniem.
+
+### P02-04 — „Pracę… też”
+**Kadr:** bliższe ujęcie Szybkiego, z Sewen częściowo widoczną w kadrze.
+
+**Akcja:** Szybki odpowiada po krótkim wahaniu.
+
+**Dialog Szybkiego:** „Pracę… też.”
+
+Po wypowiedzi następuje krótka pauza.
+
+**Aktorsko Szybkiego:** lekki nieśmiały uśmiech, subtelne zawstydzenie, uszy lekko się unoszą. Spojrzenie może na moment uciec, po czym wraca do Sewen. Szybki nie rozwija tej myśli — ma to pozostać krótką, nieśmiałą aluzją.
+
+**Aktorsko Sewen:** zaczyna rozumieć, że druga część odpowiedzi odnosi się również do niej.
+
+**Cel:** pierwszy świadomy, ale nadal bardzo niewinny sygnał, że Szybki przychodzi do mleczarni nie tylko z powodu pracy.
+
+### P02-05 — „Rozumiem”
+**Kadr:** średnie zbliżenie Sewen. Szybki pozostaje w pobliżu.
+
+**Akcja:** Sewen na moment zatrzymuje się i patrzy na Szybkiego. Nie odpowiada natychmiast — pozwala wybrzmieć jego aluzji.
+
+**Dialog Sewen:** „Rozumiem.”
+
+**Aktorsko Sewen:** ciepły, lekko rozbawiony uśmiech. Spojrzenie pokazuje, że zrozumiała drugie znaczenie, ale nie zamierza go zawstydzać ani wymuszać dalszego wyjaśnienia.
+
+**Aktorsko Szybkiego:** po jej odpowiedzi wyraźnie się peszy, ale jednocześnie jest zadowolony. Uszy pozostają lekko uniesione.
+
+**Cel:** Sewen świadomie przyjmuje sygnał Szybkiego i nie odsuwa się od niego emocjonalnie.
+
+### P02-06 — Powrót do pracy
+**Kadr:** spokojny średni plan obojga po przeciwnych stronach lady.
+
+**Akcja:** Szybki wraca do swoich obowiązków. Jest lekko zawstydzony, ale szczęśliwy. Sewen przechodzi na drugą stronę lady i również wraca do pracy.
+
+**Aktorsko Szybkiego:** skupia się na pracy, ale na twarzy pozostaje mały, zadowolony uśmiech.
+
+**Aktorsko Sewen:** przez moment spogląda na Szybkiego, po czym uśmiecha się sama do siebie i zajmuje się swoimi obowiązkami.
+
+**Dialog:** brak.
+
+**Zakończenie:** codzienna praca zostaje wznowiona, ale między nimi pozostaje świadomość tego, co właśnie zostało powiedziane.
+
+### Rytm emocjonalny strony
+1. Wspólnie rozpoczynają pracę.
+2. Sewen zauważa wyjątkowe zaangażowanie Szybkiego.
+3. Delikatnie prowokuje go komentarzem o pracy.
+4. Szybki wykorzystuje okazję do nieśmiałej aluzji.
+5. Sewen rozumie ją i spokojnie przyjmuje.
+6. Oboje wracają do pracy, ale każde z nich jest odrobinę bardziej świadome wzajemnej sympatii.
+
+### Kontrola ciągłości
+- Bezpośrednia kontynuacja poranka ze strony 1.
+- Akcja pozostaje w mleczarni „Pod Srebrnym Dzbanem”.
+- Szybki nadal jest nieśmiały i okazuje emocje głównie mimiką oraz uszami.
+- Sewen reaguje ciepło i pewnie, bez przesadnej romantyzacji.
+- Pierwsza bardziej świadoma aluzja Szybkiego, ale bez wyznania uczuć.
+- Brak fizycznego zbliżenia i brak pocałunku.
+- Relacja przesuwa się tylko o jeden mały krok.
+- Styl: Cartoon — mocno uproszczony.
+
 # STRONA 3 — „Pamięta o mnie”
 ### P03 — 5 paneli
 **Status: APPROVED**
