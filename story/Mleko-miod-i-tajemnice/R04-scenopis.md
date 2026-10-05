@@ -31,6 +31,69 @@ Emocje pokazujemy przede wszystkim przez spojrzenia, zatrzymanie ruchu, uszy i o
 
 **P01-05:** Szybki uśmiecha się nieśmiało. Sewen przez chwilę patrzy na niego dłużej niż zwykle, po czym otwiera mleczarnię. Bez dalszego dialogu.
 
+## SZCZEGÓŁOWY SCENOPIS — STRONA 1
+
+### Założenie strony
+Poranek przed mleczarnią. Scena jest spokojna i obserwacyjna. Spotkanie nadal wygląda jak zwykły początek dnia, ale sposób, w jaki Sewen i Szybki reagują na swoją obecność, pokazuje delikatną zmianę w relacji. Rytm: zwykłe oczekiwanie → zauważenie Szybkiego przez Sewen → powitanie → lekkie zawstydzenie → świadome zauważenie, że Szybki czekał właśnie na nią.
+
+### P01-01 — Oczekiwanie
+**Kadr:** szeroki plan zewnętrzny przed mleczarnią, wczesny poranek. Mleczarnia jest jeszcze zamknięta. Szybki stoi przed wejściem i czeka jak zwykle.
+
+**Aktorsko:** Szybki jest spokojny i rozluźniony. Uszy pozostają uniesione. Nie wygląda na zniecierpliwionego; jego obecność ma sprawiać wrażenie naturalnej części poranka.
+
+**Dialog:** brak.
+
+### P01-02 — Zauważenie
+**Kadr:** średnie zbliżenie od strony wnętrza mleczarni, przez okno. Sewen zauważa Szybkiego przed otwarciem.
+
+**Aktorsko:** na widok Szybkiego pojawia się ciepły, naturalny uśmiech. Nie jest to przesadna reakcja — raczej krótkie, wyraźne zadowolenie, że go widzi.
+
+**Dialog:** brak.
+
+### P01-03 — Powitanie
+**Kadr:** średni plan na zewnątrz. Sewen wychodzi przed mleczarnię z kluczem. Szybki odwraca się w jej stronę.
+
+**Aktorsko:** Sewen jest swobodna i pogodna. Szybki reaguje lekkim, przyjemnym zakłopotaniem na jej uwagę. Dystans między nimi pozostaje naturalny.
+
+**Dialog Sewen:** „Już jesteś?”
+
+### P01-04 — Przyznanie
+**Kadr:** średnie zbliżenie obojga. Szybki odpowiada Sewen, lekko speszony.
+
+**Aktorsko Szybkiego:** delikatny rumieniec, mały nieśmiały uśmiech, uszy subtelnie odchylone na boki. Ma być widoczne, że cieszy się z jej uwagi, ale nie umie jeszcze swobodnie tego pokazać.
+
+**Dialog Szybkiego:** „Tym razem chyba nie jestem pierwszy.”
+
+**Aktorsko Sewen:** rozbawione, ciepłe spojrzenie. Sewen rozumie, że Szybki sam zauważył, jak wcześnie przyszedł.
+
+### P01-05 — „Czekałeś, aż przyjdę”
+**Kadr:** spokojne średnie zbliżenie obojga. Sewen odpowiada, nadal trzymając klucz. Szybki pozostaje przed wejściem.
+
+**Dialog Sewen:** „Nie. Czekałeś, aż przyjdę.”
+
+**Aktorsko Szybkiego:** nieśmiały uśmiech; lekko spuszczone spojrzenie lub subtelne zawstydzenie. Nie ucieka jednak od Sewen.
+
+**Aktorsko Sewen:** po wypowiedzeniu kwestii patrzy na Szybkiego odrobinę dłużej niż zwykle. To ma być krótki, świadomy moment zauważenia jego intencji, bez deklaracji i bez przesadnej romantyzacji.
+
+**Zakończenie kadru:** Sewen odwraca się i otwiera mleczarnię kluczem. Szybki pozostaje blisko i rusza za nią. Bez dalszego dialogu.
+
+### Rytm emocjonalny strony
+1. Zwykłe czekanie przed mleczarnią.
+2. Sewen zauważa Szybkiego i wyraźnie cieszy się na jego widok.
+3. Powitanie pozostaje codzienne i naturalne.
+4. Szybki zdradza lekkie zawstydzenie związane z tym, że przyszedł wcześniej.
+5. Sewen świadomie nazywa fakt, że czekał właśnie na nią.
+6. Strona kończy się ciepłym, krótkim spojrzeniem i wspólnym wejściem do mleczarni.
+
+### Kontrola ciągłości
+- Miejsce: mleczarnia „Pod Srebrnym Dzbanem”.
+- Czas: wczesny poranek, przed rozpoczęciem pracy.
+- Szybki czeka przed mleczarnią.
+- Sewen ma przy sobie klucz do mleczarni.
+- Strona nie zawiera deklaracji związku ani pocałunku.
+- Bliskość jest emocjonalna i subtelna; fizyczny dystans pozostaje naturalny.
+- Styl prezentacji: Cartoon — mocno uproszczony.
+
 # STRONA 2 — „Jeszcze jeden powód”
 ### P02 — 6 paneli
 **Status: APPROVED**
