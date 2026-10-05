@@ -5,7 +5,7 @@
 - Scenopis: ZAAKCEPTOWANY
 - Rozdział: 3
 - Format: 10 stron
-- Styl wizualny: Cartoon — mocno uproszczony
+- Styl wizualny: Cartoon — mocno uproszczony, z wyjątkiem Strony 10: Retro 16, Color: OFF
 - Ciągłość między stronami: obowiązkowa
 - Źródła postaci: zaakceptowane karty T-POSE Pani Sewen Lopez i Szybkiego Królika
 
@@ -93,6 +93,7 @@ Emocje pokazujemy przez oczy, kierunek spojrzenia, uszy i ogon Szybkiego, subtel
 
 # STRONA 10 — „Jutro”
 ### P10 — 4 panele
+**Styl wizualny:** Retro 16, Color: OFF.
 **P10-01:** Sewen zamyka mleczarnię swoim mosiężnym kluczem. Klucz wyraźnie widoczny.
 **P10-02:** „Do jutra, Szybki.” / „Do jutra, Sewen.” Oboje patrzą na siebie dłużej niż zwykle.
 **P10-03:** Sewen odchodzi, po kilku krokach dotyka dłonią miejsca przy dekolcie, gdzie spoczywa klucz. Jest zamyślona.
