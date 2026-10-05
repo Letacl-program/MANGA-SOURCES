@@ -794,6 +794,104 @@ Sewen zauważa to kątem oka i lekko się uśmiecha.
 Pierwsze bardziej bezpośrednie przyznanie, że Szybki chce być blisko Sewen, ale nadal bez wyznania uczuć. Sewen przyjmuje ten sygnał ciepło. Strona zwiększa emocjonalną bliskość przed wydarzeniami ze stron 9–10, bez pocałunku na tej stronie.
 
 
+## SZCZEGÓŁOWY SCENOPIS — STRONA 8
+
+### Założenie strony
+Po stronie 7 Szybki nie tylko pozostaje przy Sewen — tutaj po raz pierwszy świadomie i bardziej bezpośrednio przyznaje, że chce być blisko niej. Nadal nie jest to wyznanie uczuć. Sewen jest przez moment zaskoczona szczerością, ale reaguje ciepło i pozostaje obok niego.
+
+Rytm: pozostanie obok siebie → pytanie Sewen → przyznanie Szybkiego, że ma jeszcze pracę → Sewen zauważa sprzeczność → szczere wyjaśnienie Szybkiego → ciepła reakcja Sewen.
+
+### P08-01 — „Nadal zostajesz”
+**Kadr:** średnio-szeroki plan wnętrza mleczarni.
+
+Sewen kończy odkładać narzędzia na swoje miejsce. Szybki stoi obok niej i tym razem również nie odchodzi.
+
+**Akcja:** Sewen spogląda na niego.
+
+**Aktorsko Sewen:** delikatny, ciepły uśmiech. Nie wygląda na zaskoczoną jego obecnością — raczej zaczyna świadomie ją zauważać.
+
+**Aktorsko Szybkiego:** spokojny, lekko nieśmiały. Nie wykonuje żadnego pretekstu, żeby zostać — po prostu pozostaje obok.
+
+**Dialog:** brak.
+
+**Cel:** bezpośrednia kontynuacja strony 7.
+
+### P08-02 — „Nie masz już nic do zrobienia?”
+**Kadr:** średnie zbliżenie obojga.
+
+Sewen odwraca się bardziej w stronę Szybkiego.
+
+**Dialog Sewen:** „Nie masz już nic do zrobienia?”
+
+**Aktorsko Sewen:** spokojnie, z lekkim rozbawieniem. Pytanie nie jest wyrzutem — Sewen chce sprawdzić, czy Szybki sam zdaje sobie sprawę, że nadal stoi przy niej.
+
+**Aktorsko Szybkiego:** lekko zaskoczony. Spogląda na Sewen, potem w stronę swojego stanowiska pracy.
+
+### P08-03 — „Mam”
+**Kadr:** bliższe ujęcie Szybkiego.
+
+Szybki najpierw zerka na swoje obowiązki, potem ponownie na Sewen.
+
+Po krótkim wahaniu odpowiada:
+
+**Dialog Szybkiego:** „Mam.”
+
+**Aktorsko:** krótka pauza przed odpowiedzią jest ważna. Szybki wie, że rzeczywiście powinien wrócić do pracy.
+
+Uszy lekko się unoszą, ale wyraz twarzy pozostaje nieśmiały.
+
+**Cel:** przygotować logiczną sprzeczność: skoro ma jeszcze pracę, dlaczego nadal stoi przy Sewen?
+
+### P08-04 — „A jednak nadal tu stoisz”
+**Kadr:** średnie zbliżenie Sewen.
+
+Sewen lekko unosi brew i patrzy na Szybkiego.
+
+**Dialog Sewen:** „A jednak nadal tu stoisz.”
+
+**Aktorsko Sewen:** delikatnie rozbawiona, ale przede wszystkim ciekawa jego odpowiedzi.
+
+Nie naciska. Daje mu możliwość samodzielnego powiedzenia prawdy.
+
+**Aktorsko Szybkiego:** lekko się peszy. Na chwilę spuszcza wzrok.
+
+**Cel:** doprowadzić do pierwszego bardziej bezpośredniego przyznania Szybkiego.
+
+### P08-05 — „Bo… dobrze mi się tu stoi”
+**Kadr:** spokojne średnie zbliżenie obojga.
+
+Szybki patrzy na Sewen i po krótkim wahaniu odpowiada:
+
+**Dialog Szybkiego:** „Bo… dobrze mi się tu stoi.”
+
+**Aktorsko Szybkiego:** nieśmiały uśmiech, lekki rumieniec, subtelnie uniesione uszy, szczere spojrzenie. Nie powinien mówić tego z przesadną pewnością. To szczere przyznanie, które samo w sobie trochę go zawstydza.
+
+**Reakcja Sewen:** przez chwilę patrzy na niego z wyraźnym zaskoczeniem. Następnie odwraca wzrok z ciepłym uśmiechem.
+
+**Zakończenie:** oboje zostają jeszcze moment obok siebie.
+
+**Dialog:** brak dalszych słów.
+
+### Rytm emocjonalny strony
+1. Szybki świadomie zostaje przy Sewen.
+2. Sewen pyta, czy nie ma już innych obowiązków.
+3. Szybki przyznaje, że ma.
+4. Sewen zauważa, że mimo tego nadal nie odchodzi.
+5. Szybki po raz pierwszy mówi wprost, że dobrze mu jest przy niej.
+6. Sewen przyjmuje to z chwilowym zaskoczeniem i ciepłym uśmiechem.
+
+### Kontrola ciągłości
+- Bezpośrednia kontynuacja strony 7.
+- To samo miejsce i etap poranka.
+- Szybki przechodzi od niewerbalnego pozostawania przy Sewen do prostego, szczerego przyznania.
+- Sewen nie odrzuca tego sygnału.
+- Brak deklaracji miłości lub związku.
+- Brak pocałunku.
+- Brak nadmiernego kontaktu fizycznego.
+- Strona zwiększa emocjonalną, a nie gwałtownie fizyczną bliskość.
+- Przygotowuje bezpośrednio strony 9–10.
+- Styl: Cartoon — mocno uproszczony.
+
 # STRONA 9 — „Nieplanowany moment”
 ### P09 — 5 paneli
 **Status: APPROVED**
