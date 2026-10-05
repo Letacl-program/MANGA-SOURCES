@@ -910,6 +910,44 @@ Szybki patrzy na Sewen i po krótkim wahaniu odpowiada:
 Doprowadzić ich do najmniejszego dotąd dystansu, ale bez pocałunku. Oboje świadomie akceptują bliskość i nie próbują jej przerwać. Ostatni panel ma stworzyć naturalny punkt wyjścia dla przypadkowego zdarzenia na stronie 10.
 
 
+## SZCZEGÓŁOWY SCENOPIS — STRONA 9
+
+### Założenie strony
+Najmniejszy dotąd dystans fizyczny. Bliskość wynika z pomocy przy wyższej półce i zostaje świadomie zaakceptowana przez oboje. Strona nie zawiera pocałunku; przygotowuje naturalne przejście do strony 10.
+
+### P09-01 — „Poczekaj, podam”
+Sewen sięga po przedmiot z wyższej półki. Szybki podchodzi, by pomóc.
+**Dialog Szybkiego:** „Poczekaj, podam.”
+Naturalna gotowość do pomocy, bez celowego romantycznego gestu.
+
+### P09-02 — „Zatrzymanie”
+Szybki sięga po przedmiot w chwili, gdy Sewen odwraca się do niego. Oboje zatrzymują się bardzo blisko siebie. Szybki jest zaskoczony, Sewen również, ale nie robi kroku w tył.
+
+### P09-03 — „Nie odsuwają się”
+Patrzą sobie w oczy. Żadne nie wycofuje się. Szybki ma lekko uniesione uszy i subtelny rumieniec; Sewen spokojne spojrzenie i delikatny, nieco zaskoczony uśmiech.
+
+### P09-04 — „Znowu jesteś za blisko”
+Sewen cicho mówi: **„Znowu jesteś za blisko.”** Ton jest spokojny, bez nagany. Nie odsuwa się.
+
+### P09-05 — „Może trochę”
+Po krótkiej pauzie Szybki odpowiada: **„Może trochę.”** Lekki rumieniec, nieśmiały uśmiech, uszy lekko uniesione. Oboje pozostają jeszcze chwilę w tej bliskości. **Nie dochodzi do pocałunku.**
+
+### Rytm emocjonalny
+1. Pomoc Sewen.
+2. Przypadkowe zbliżenie.
+3. Zatrzymanie i kontakt wzrokowy.
+4. Sewen świadomie nazywa bliskość.
+5. Szybki nie wycofuje się i przyznaje „Może trochę”.
+
+### Kontrola ciągłości
+- Bezpośrednia kontynuacja strony 8.
+- To samo miejsce i etap pracy.
+- Najmniejszy dotąd dystans.
+- Bliskość pozostaje niewinna i bez erotyzacji.
+- Brak pocałunku i deklaracji związku.
+- P09-05 jest punktem wyjścia dla nieplanowanego zdarzenia strony 10.
+- Styl: **Cartoon — mocno uproszczony**.
+
 # STRONA 10 — „Pierwszy pocałunek”
 ### P10 — 5 paneli
 **Status: APPROVED**
