@@ -559,6 +559,111 @@ Tym razem żadne nie odwraca wzroku od razu.
 ## Cel strony
 Podnieść poziom świadomej bliskości i pokazać, że Sewen przestaje traktować ją jako coś niezręcznego. Nadal bez pocałunku i bez jawnej deklaracji.
 
+## SZCZEGÓŁOWY SCENOPIS — STRONA 6
+
+### Założenie strony
+Po wydarzeniu ze strony 5 Sewen i Szybki zaczynają bardziej świadomie funkcjonować w swoim bezpośrednim sąsiedztwie. Tym razem bliskość nie wynika tylko z jednego przypadkowego gestu — oboje zauważają, że znaleźli się bardzo blisko, a Sewen pokazuje Szybkiemu, że nie musi za to przepraszać.
+
+Rytm: zbliżenie podczas pracy → zatrzymanie → odruchowe przeprosiny → uspokojenie Szybkiego przez Sewen → krótki kontakt dłoni → wspólny uśmiech.
+
+### P06-01 — „Za blisko”
+**Kadr:** średni plan we wnętrzu mleczarni, przy stanowisku pracy.
+
+**Akcja:** Sewen odwraca się, żeby sięgnąć po kolejne narzędzie. W tym samym momencie Szybki robi krok w tę samą stronę. Oboje nagle zatrzymują się, orientując się, że stoją bardzo blisko siebie.
+
+**Aktorsko Szybkiego:** lekko zaskoczony, oczy skierowane na Sewen, uszy delikatnie uniesione.
+
+**Aktorsko Sewen:** również zauważa dystans, ale nie reaguje nerwowo. Pojawia się niewielkie, spokojne zaskoczenie.
+
+**Dialog:** brak.
+
+**Cel:** zwiększyć fizyczną bliskość względem strony 5, ale bez natychmiastowego romantycznego gestu.
+
+### P06-02 — „Przepraszam”
+**Kadr:** bliższe ujęcie Szybkiego.
+
+Szybki robi pół kroku do tyłu, próbując przywrócić większy dystans.
+
+**Dialog Szybkiego:** „Przepraszam.”
+
+**Aktorsko:** lekko speszony, uszy delikatnie opadają. Nie patrzy na Sewen tak pewnie jak przed chwilą.
+
+**Cel:** pokazać, że dla Szybkiego bliskość nadal może wydawać się czymś, za co powinien przeprosić.
+
+### P06-03 — „Za co?”
+**Kadr:** średnie zbliżenie Sewen.
+
+Sewen patrzy na Szybkiego spokojnie.
+
+**Dialog Sewen:** „Za co?”
+
+**Aktorsko Sewen:** lekki, ciepły uśmiech. Nie ma w niej wyrzutu ani zakłopotania. Jej reakcja ma zatrzymać jego automatyczne wycofanie.
+
+**Aktorsko Szybkiego:** spogląda na nią z lekkim zaskoczeniem.
+
+**Cel:** Sewen po raz pierwszy wyraźnie komunikuje zachowaniem, że jego bliskość nie jest dla niej problemem.
+
+### P06-04 — „Nie wiem…”
+**Kadr:** bliższe ujęcie Szybkiego.
+
+Szybki przez chwilę próbuje znaleźć odpowiedź, ale nie potrafi jej sformułować.
+
+**Dialog Szybkiego:** „Nie wiem…”
+
+**Aktorsko:** lekko opuszczone uszy, nieśmiały wyraz twarzy. Może na chwilę spuścić wzrok.
+
+Nie powinien wyglądać na przestraszonego — raczej na kogoś, kto sam nie wie, dlaczego odruchowo przeprosił.
+
+### P06-05 — „Nie ma za co”
+**Kadr:** średni plan obojga.
+
+Sewen sięga po narzędzie, którego szukała, i podaje je Szybkiemu.
+
+**Dialog Sewen:** „To chyba nie ma za co przepraszać.”
+
+**Aktorsko Sewen:** spokojna, naturalna, z delikatnym uśmiechem.
+
+**Aktorsko Szybkiego:** jego napięcie wyraźnie maleje. Patrzy na podawane narzędzie, potem na Sewen.
+
+**Cel:** Sewen nie tylko mówi, że nie ma problemu — swoim gestem ponownie skraca dystans.
+
+### P06-06 — „Tym razem nie uciekają”
+**Kadr:** bliższe ujęcie dłoni i twarzy obojga.
+
+Szybki bierze narzędzie z dłoni Sewen. Ich dłonie krótko się stykają.
+
+Tym razem żadne z nich nie reaguje gwałtownym odsunięciem.
+
+**Dialog:** brak.
+
+**Aktorsko Szybkiego:** lekki rumieniec, nieśmiały, ale szczęśliwy uśmiech; uszy ponownie lekko się unoszą.
+
+**Aktorsko Sewen:** ciepły uśmiech, spokojne spojrzenie.
+
+Po krótkiej chwili oboje wracają do pracy.
+
+**Cel:** pokazać konkretną zmianę względem wcześniejszych stron — fizyczna bliskość nadal ich zawstydza, ale przestaje być czymś, przed czym trzeba natychmiast uciekać.
+
+### Rytm emocjonalny strony
+1. Oboje przypadkowo wchodzą w bardzo mały dystans.
+2. Szybki odruchowo próbuje się wycofać.
+3. Sewen pyta, dlaczego właściwie miałby przepraszać.
+4. Szybki nie potrafi tego wyjaśnić.
+5. Sewen uspokaja go i sama podaje mu narzędzie.
+6. Krótki kontakt dłoni kończy się wspólnym uśmiechem zamiast odsunięciem.
+
+### Kontrola ciągłości
+- Bezpośrednia kontynuacja strony 5.
+- Nadal wnętrze mleczarni i ten sam etap pracy.
+- Bliskość jest większa niż na stronie 5, ale nadal niewinna.
+- Sewen zaczyna świadomie akceptować bliskość Szybkiego.
+- Szybki pozostaje nieśmiały i reaguje charakterystycznym ruchem uszu.
+- Brak pocałunku.
+- Brak deklaracji uczuć.
+- Kontakt dłoni jest krótki i wynika z przekazywania narzędzia.
+- Strona przygotowuje przejście do strony 7, gdzie Szybki zacznie świadomie pozostawać przy Sewen bez konkretnego powodu.
+- Styl: Cartoon — mocno uproszczony.
+
 # STRONA 7 — „Jeszcze chwila”
 ### P07 — 5 paneli
 **Status: APPROVED**
