@@ -102,3 +102,22 @@ Odwrócić wcześniejszą dynamikę — Sewen zaczyna świadomie odpowiadać na 
 
 ## Cel strony
 Pokazać, że fizyczna bliskość zaczyna być dla nich naturalniejsza. To kolejny krok przed późniejszym, przypadkowym pocałunkiem, ale **bez jego zapowiedzi i bez przyspieszania kulminacji**.
+
+# STRONA 6 — „Trochę za blisko”
+### P06 — 6 paneli
+**Status: APPROVED**
+
+**P06-01:** Sewen odwraca się, żeby sięgnąć po kolejne narzędzie. Szybki robi krok w tę samą stronę. Oboje zatrzymują się, orientując się, że stoją bardzo blisko.
+
+**P06-02:** Szybki cofa się o pół kroku. „Przepraszam.”
+
+**P06-03:** Sewen lekko się uśmiecha. „Za co?”
+
+**P06-04:** Szybki nie wie, co odpowiedzieć. Jego uszy lekko opadają. „Nie wiem…”
+
+**P06-05:** Sewen podaje mu narzędzie, którego właśnie szukał. „To chyba nie ma za co przepraszać.”
+
+**P06-06:** Szybki bierze narzędzie. Ich dłonie na moment się spotykają. Tym razem oboje uśmiechają się zamiast od razu odsunąć.
+
+## Cel strony
+Podnieść poziom świadomej bliskości i pokazać, że Sewen przestaje traktować ją jako coś niezręcznego. Nadal bez pocałunku i bez jawnej deklaracji.
