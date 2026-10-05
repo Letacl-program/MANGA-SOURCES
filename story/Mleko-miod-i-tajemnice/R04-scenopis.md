@@ -138,3 +138,21 @@ Podnieść poziom świadomej bliskości i pokazać, że Sewen przestaje traktowa
 
 ## Cel strony
 Pokazać, że oboje świadomie szukają swojej obecności nawet bez konkretnego powodu. Strona przygotowuje grunt pod kolejne wydarzenia bez przyspieszania kulminacji.
+
+
+# STRONA 8 — „Bliskość”
+### P08 — 5 paneli
+**Status: APPROVED**
+
+**P08-01:** Sewen kończy odkładać narzędzia. Szybki stoi obok, ale tym razem nie odchodzi. Sewen spogląda na niego, a na jej twarzy pojawia się delikatny uśmiech.
+
+**P08-02:** Sewen pyta spokojnie: „Nie masz już nic do zrobienia?”
+
+**P08-03:** Szybki zerka na swoje obowiązki, potem na Sewen. Po krótkim wahaniu: „Mam.”
+
+**P08-04:** Sewen lekko unosi brew. „A jednak nadal tu stoisz.”
+
+**P08-05:** Szybki uśmiecha się nieśmiało. „Bo… dobrze mi się tu stoi.” Sewen przez chwilę patrzy na niego zaskoczona, po czym odwraca wzrok z ciepłym uśmiechem. Oboje zostają jeszcze moment obok siebie.
+
+## Cel strony
+Pierwsze bardziej bezpośrednie przyznanie, że Szybki chce być blisko Sewen, ale nadal bez wyznania uczuć. Sewen przyjmuje ten sygnał ciepło. Strona zwiększa emocjonalną bliskość przed wydarzeniami ze stron 9–10, bez pocałunku na tej stronie.
