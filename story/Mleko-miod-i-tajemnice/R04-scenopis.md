@@ -49,3 +49,20 @@ Emocje pokazujemy przede wszystkim przez spojrzenia, zatrzymanie ruchu, uszy i o
 
 ## Cel strony
 Pierwszy bardziej świadomy, ale nadal niewinny sygnał, że Szybki przychodzi nie tylko do pracy.
+
+# STRONA 3 — „Pamięta o mnie”
+### P03 — 5 paneli
+**Status: APPROVED**
+
+**P03-01:** Szybki sięga po narzędzie potrzebne do pracy, zanim Sewen zdąży o nie poprosić. Podaje jej je z lekkim uśmiechem.
+
+**P03-02:** Sewen patrzy na narzędzie, potem na Szybkiego. „Wiedziałeś, czego będę potrzebować?”
+
+**P03-03:** Szybki lekko się peszy. „Pamiętam, co zwykle robisz rano.”
+
+**P03-04:** Sewen przez chwilę patrzy na niego uważnie. „Pamiętasz takie rzeczy?”
+
+**P03-05:** Szybki wraca do pracy, ale jego uszy lekko się unoszą. „Niektóre łatwo zapamiętać.” Sewen zostaje z delikatnym, ciepłym uśmiechem.
+
+## Cel strony
+Pokazać, że Szybki zaczyna świadomie zwracać uwagę na Sewen i jej zwyczaje, a Sewen coraz wyraźniej zauważa jego zainteresowanie.
