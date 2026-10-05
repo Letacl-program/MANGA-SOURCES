@@ -682,6 +682,100 @@ Po krótkiej chwili oboje wracają do pracy.
 Pokazać, że oboje świadomie szukają swojej obecności nawet bez konkretnego powodu. Strona przygotowuje grunt pod kolejne wydarzenia bez przyspieszania kulminacji.
 
 
+## SZCZEGÓŁOWY SCENOPIS — STRONA 7
+
+### Założenie strony
+Po stronie 6, gdzie Sewen wyraźnie zaakceptowała bliskość Szybkiego, pojawia się kolejny mały krok: Szybki zostaje przy niej, mimo że nie ma już konkretnego powodu związanego z pracą. Sewen zauważa to i zamiast go odprawić, sama pozostaje obok.
+
+To pierwsza scena, w której oboje świadomie wybierają swoją obecność, bez pretekstu zadania.
+
+Rytm: zauważenie → pytanie Sewen → nieśmiała odpowiedź → świadoma zgoda na pozostanie → wspólna cicha praca.
+
+### P07-01 — „Nadal tutaj”
+**Kadr:** średnio-szeroki plan przy ladzie.
+
+Sewen wraca do swojej pracy. Szybki powinien w tym momencie zająć się własnymi obowiązkami, ale zamiast tego nadal stoi obok niej.
+
+**Akcja:** Sewen po chwili zauważa jego obecność.
+
+**Aktorsko Szybkiego:** nie robi nic szczególnego. Stoi spokojnie, jakby sam jeszcze nie zdecydował, czy już odejść. Może mieć w dłoni narzędzie lub drobny przedmiot związany z pracą.
+
+**Aktorsko Sewen:** zauważa sytuację i pojawia się na jej twarzy lekko rozbawiony uśmiech.
+
+**Dialog:** brak.
+
+**Cel:** pokazać, że Szybki pozostaje przy Sewen bez konkretnego zadania.
+
+### P07-02 — „Coś jeszcze?”
+**Kadr:** średnie zbliżenie obojga.
+
+Sewen odwraca głowę w stronę Szybkiego.
+
+**Dialog Sewen:** „Coś jeszcze?”
+
+**Aktorsko Sewen:** lekkie rozbawienie, ciepły ton. Nie pyta dlatego, że chce go odprawić — raczej daje mu możliwość powiedzenia, dlaczego nadal stoi obok.
+
+**Aktorsko Szybkiego:** lekko zaskoczony, że został zauważony. Uszy mogą delikatnie się unieść.
+
+### P07-03 — „Chyba… nie”
+**Kadr:** bliższe ujęcie Szybkiego.
+
+Szybki przez moment milczy, zanim odpowie.
+
+**Dialog Szybkiego:** „Chyba… nie.”
+
+**Aktorsko:** lekkie zawstydzenie. Spojrzenie może na chwilę uciec w bok, po czym wraca do Sewen.
+
+Ważna jest pauza przed odpowiedzią — Szybki wie, że nie ma już konkretnego powodu, żeby tu stać.
+
+**Cel:** pierwszy moment, w którym jego chęć pozostania przy Sewen staje się świadoma również dla niego.
+
+### P07-04 — „To dobrze”
+**Kadr:** średnie zbliżenie Sewen.
+
+Sewen nie odchodzi i nie wraca natychmiast do własnego stanowiska. Zostaje obok Szybkiego jeszcze chwilę.
+
+**Dialog Sewen:** „To dobrze.”
+
+**Aktorsko Sewen:** spokojny, ciepły uśmiech. Bez żartu i bez zawstydzenia.
+
+**Aktorsko Szybkiego:** wyraźna ulga i cichy uśmiech. Uszy lekko się unoszą.
+
+**Cel:** Sewen świadomie pokazuje, że obecność Szybkiego bez konkretnego powodu jej nie przeszkadza — wręcz przeciwnie.
+
+### P07-05 — „Jeszcze chwila”
+**Kadr:** spokojny, szerszy plan obojga przy pracy.
+
+Oboje wracają do swoich czynności, ale przez krótką chwilę pracują cicho obok siebie, stojąc bliżej niż wymagałaby tego sama praca.
+
+Nie rozmawiają.
+
+Szybki zerka na Sewen.
+
+Sewen zauważa to kątem oka i lekko się uśmiecha.
+
+**Dialog:** brak.
+
+**Zakończenie:** żadne z nich nie odchodzi od razu. Przez moment wystarcza im sama obecność drugiej osoby.
+
+### Rytm emocjonalny strony
+1. Szybki zostaje obok Sewen bez konkretnego zadania.
+2. Sewen zauważa jego zachowanie.
+3. Szybki przyznaje, że właściwie nie ma powodu, żeby jeszcze tam stać.
+4. Sewen świadomie pozwala mu zostać.
+5. Oboje wybierają krótką, spokojną obecność obok siebie.
+
+### Kontrola ciągłości
+- Bezpośrednia kontynuacja strony 6.
+- Nadal wnętrze mleczarni i ten sam etap pracy.
+- Szybki zaczyna świadomie szukać obecności Sewen.
+- Sewen świadomie tę obecność akceptuje.
+- Bliskość jest nadal niewinna i pozbawiona deklaracji.
+- Brak pocałunku.
+- Brak gwałtownej eskalacji.
+- Strona przygotowuje przejście do strony 8, gdzie Szybki jeszcze wyraźniej przyzna, że dobrze mu jest przy Sewen.
+- Styl: Cartoon — mocno uproszczony.
+
 # STRONA 8 — „Bliskość”
 ### P08 — 5 paneli
 **Status: APPROVED**
