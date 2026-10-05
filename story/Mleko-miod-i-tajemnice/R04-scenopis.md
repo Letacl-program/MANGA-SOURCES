@@ -121,3 +121,20 @@ Pokazać, że fizyczna bliskość zaczyna być dla nich naturalniejsza. To kolej
 
 ## Cel strony
 Podnieść poziom świadomej bliskości i pokazać, że Sewen przestaje traktować ją jako coś niezręcznego. Nadal bez pocałunku i bez jawnej deklaracji.
+
+# STRONA 7 — „Jeszcze chwila”
+### P07 — 5 paneli
+**Status: APPROVED**
+
+**P07-01:** Sewen wraca do pracy przy ladzie. Po chwili zauważa, że Szybki nadal stoi obok niej, zamiast wrócić do swoich obowiązków.
+
+**P07-02:** Sewen spogląda na niego z lekkim rozbawieniem. „Coś jeszcze?”
+
+**P07-03:** Szybki przez moment milczy. „Chyba… nie.”
+
+**P07-04:** Sewen nie odchodzi. Zostaje obok niego jeszcze chwilę. „To dobrze.”
+
+**P07-05:** Oboje wracają do pracy, ale przez moment pracują cicho obok siebie, stojąc blisko. Szybki zerka na Sewen; ona zauważa to kątem oka i uśmiecha się.
+
+## Cel strony
+Pokazać, że oboje świadomie szukają swojej obecności nawet bez konkretnego powodu. Strona przygotowuje grunt pod kolejne wydarzenia bez przyspieszania kulminacji.
