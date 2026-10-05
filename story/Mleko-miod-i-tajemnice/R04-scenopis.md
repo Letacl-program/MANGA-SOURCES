@@ -2,7 +2,7 @@
 ## Rozdział 4 — „Trochę bliżej”
 
 ### Status
-- Scenopis: ROBOCZY
+- Scenopis: W TOKU
 - Rozdział: 4
 - Format: 10 stron
 - Styl wizualny: Cartoon — mocno uproszczony
@@ -19,7 +19,7 @@ Emocje pokazujemy przede wszystkim przez spojrzenia, zatrzymanie ruchu, uszy i o
 
 # STRONA 1 — „Dłużej niż zwykle”
 ### P01 — 5 paneli
-**Status: DRAFT — NIEZATWIERDZONE**
+**Status: APPROVED**
 
 **P01-01:** Poranek przed mleczarnią. Szybki czeka jak zwykle, ale tym razem Sewen zauważa go z okna jeszcze przed otwarciem.
 
