@@ -30,3 +30,22 @@ Emocje pokazujemy przede wszystkim przez spojrzenia, zatrzymanie ruchu, uszy i o
 **P01-04:** Sewen spogląda na niego z rozbawieniem. „Nie. Czekałeś, aż przyjdę.”
 
 **P01-05:** Szybki uśmiecha się nieśmiało. Sewen przez chwilę patrzy na niego dłużej niż zwykle, po czym otwiera mleczarnię. Bez dalszego dialogu.
+
+# STRONA 2 — „Jeszcze jeden powód”
+### P02 — 6 paneli
+**Status: APPROVED**
+
+**P02-01:** Sewen otwiera drzwi mleczarni. Szybki wchodzi za nią. Oboje są w dobrym nastroju; Sewen zerka na niego przez ramię.
+
+**P02-02:** Szybki przygotowuje ladę. Sewen zauważa, że przyszedł wyjątkowo wcześnie i przygotował już część produktów.
+
+**P02-03:** Sewen podchodzi do niego. „Ty to chyba naprawdę lubisz tę pracę.”
+
+**P02-04:** Szybki uśmiecha się. „Pracę… też.” Krótka pauza. Jego uszy lekko się unoszą.
+
+**P02-05:** Sewen zatrzymuje się na moment, rozumiejąc drugie znaczenie jego słów. Uśmiecha się ciepło. „Rozumiem.”
+
+**P02-06:** Szybki wraca do pracy, lekko zawstydzony, ale szczęśliwy. Sewen przechodzi na drugą stronę lady i uśmiecha się sama do siebie.
+
+## Cel strony
+Pierwszy bardziej świadomy, ale nadal niewinny sygnał, że Szybki przychodzi nie tylko do pracy.
