@@ -449,6 +449,97 @@ Szybki również spuszcza wzrok, ale jego uszy nadal pozostają lekko uniesione.
 ## Cel strony
 Pokazać, że fizyczna bliskość zaczyna być dla nich naturalniejsza. To kolejny krok przed późniejszym, przypadkowym pocałunkiem, ale **bez jego zapowiedzi i bez przyspieszania kulminacji**.
 
+## SZCZEGÓŁOWY SCENOPIS — STRONA 5
+
+### Założenie strony
+Po świadomym geście Sewen ze strony 4 pojawia się pierwszy wyraźniejszy moment fizycznej bliskości. Nie jest on zaplanowany ani romantycznie aranżowany — wynika zwyczajnie ze wspólnej pracy. Ważne jest jednak to, że po krótkim zaskoczeniu oboje zaczynają tę bliskość przyjmować bardziej naturalnie.
+
+Rytm: wspólna praca → przypadkowe zetknięcie dłoni → zatrzymanie → Sewen świadomie proponuje wspólne niesienie → ponowne spojrzenie.
+
+### P05-01 — „Jednocześnie”
+**Kadr:** średnio-szeroki plan wnętrza mleczarni. Szybki niesie niewielką skrzynkę z produktami.
+
+**Akcja:** Sewen zauważa, że skrzynka jest dość niewygodna i podchodzi, żeby pomóc. W tym samym momencie oboje chwytają ten sam uchwyt.
+
+**Aktorsko Szybkiego:** naturalny ruch związany z pracą. Dopiero po zetknięciu dłoni orientuje się, że Sewen jest bardzo blisko.
+
+**Aktorsko Sewen:** również początkowo skupiona na pracy. Po chwili zauważa ich dłonie.
+
+**Dialog:** brak.
+
+**Cel:** fizyczna bliskość ma wynikać z sytuacji, a nie z celowego romantycznego gestu.
+
+### P05-02 — „Zatrzymanie”
+**Kadr:** bliższe ujęcie dłoni na uchwycie, z twarzami obojga w dalszej części kadru.
+
+**Akcja:** oboje zatrzymują ruch. Najpierw patrzą na swoje dłonie, potem podnoszą wzrok i patrzą na siebie.
+
+**Aktorsko Szybkiego:** delikatny rumieniec, lekko zaskoczony wyraz twarzy.
+
+**Aktorsko Sewen:** mały, nieśmiały uśmiech. Nie wycofuje się natychmiast.
+
+**Dialog:** brak.
+
+**Cel:** pierwszy moment, w którym fizyczna bliskość zostaje zauważona przez oboje.
+
+### P05-03 — „Ty weź z tej strony”
+**Kadr:** średnie zbliżenie obojga przy skrzynce.
+
+Sewen jako pierwsza wraca do praktycznego działania i puszcza uchwyt.
+
+**Dialog Sewen:** „Ty weź z tej strony.”
+
+**Aktorsko Sewen:** spokojna, lekko speszona, ale już bez wcześniejszego zakłopotania. Jej ton pozostaje całkowicie naturalny.
+
+**Aktorsko Szybkiego:** przez moment jeszcze patrzy na Sewen, po czym kiwa głową.
+
+**Cel:** Sewen nie odsuwa Szybkiego ani nie przerywa wspólnej pracy — zamiast tego proponuje, żeby po prostu nieśli skrzynkę razem.
+
+### P05-04 — „Dobrze”
+**Kadr:** średnio-szeroki plan. Oboje stoją po przeciwnych stronach skrzynki.
+
+**Dialog Szybkiego:** „Dobrze.”
+
+**Akcja:** ruszają razem i przenoszą skrzynkę.
+
+**Aktorsko:** początkowe napięcie znika. Oboje skupiają się na zadaniu, ale ich ruchy są bardziej świadome obecności drugiej osoby.
+
+**Cel:** pokazać, że po chwili zawahania wspólna bliskość zaczyna być dla nich czymś naturalnym.
+
+### P05-05 — „Jeszcze jedno spojrzenie”
+**Kadr:** średnie zbliżenie przy odkładaniu skrzynki.
+
+**Akcja:** oboje pochylają się, żeby odstawić skrzynkę. Kiedy prostują się, ich spojrzenia ponownie się spotykają.
+
+Tym razem żadne nie odwraca wzroku od razu.
+
+**Aktorsko Szybkiego:** lekki uśmiech, subtelne zawstydzenie.
+
+**Aktorsko Sewen:** ciepłe, spokojne spojrzenie i niewielki uśmiech.
+
+**Dialog:** brak.
+
+**Zakończenie:** po chwili oboje wracają do swoich obowiązków.
+
+### Rytm emocjonalny strony
+1. Wspólna praca prowadzi do przypadkowego zetknięcia dłoni.
+2. Oboje zauważają fizyczną bliskość.
+3. Sewen nie wycofuje się — proponuje dalszą wspólną pracę.
+4. Wspólne niesienie skrzynki staje się naturalne.
+5. Kolejne spojrzenie trwa dłużej niż wcześniej.
+
+### Kontrola ciągłości
+- Bezpośrednia kontynuacja strony 4.
+- Nadal wnętrze mleczarni i ten sam etap poranka.
+- Fizyczny kontakt jest krótki i przypadkowy.
+- Sewen świadomie nie traktuje bliskości jako problemu.
+- Szybki pozostaje nieśmiały.
+- Brak deklaracji uczuć.
+- Brak pocałunku.
+- Brak celowego romantycznego kontaktu fizycznego.
+- Strona zwiększa bliskość, przygotowując grunt pod stronę 6.
+- Styl: Cartoon — mocno uproszczony.
+
 # STRONA 6 — „Trochę za blisko”
 ### P06 — 6 paneli
 **Status: APPROVED**
