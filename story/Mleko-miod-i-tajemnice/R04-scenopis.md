@@ -156,3 +156,21 @@ Pokazać, że oboje świadomie szukają swojej obecności nawet bez konkretnego 
 
 ## Cel strony
 Pierwsze bardziej bezpośrednie przyznanie, że Szybki chce być blisko Sewen, ale nadal bez wyznania uczuć. Sewen przyjmuje ten sygnał ciepło. Strona zwiększa emocjonalną bliskość przed wydarzeniami ze stron 9–10, bez pocałunku na tej stronie.
+
+
+# STRONA 9 — „Nieplanowany moment”
+### P09 — 5 paneli
+**Status: APPROVED**
+
+**P09-01:** Sewen sięga po coś z wyższej półki. Szybki odruchowo podchodzi bliżej, żeby jej pomóc. „Poczekaj, podam.”
+
+**P09-02:** Szybki sięga po przedmiot, ale Sewen w tym samym momencie odwraca się do niego. Oboje zatrzymują się bardzo blisko siebie.
+
+**P09-03:** Przez chwilę patrzą sobie w oczy. Żadne nie robi kroku w tył. Szybki ma lekko uniesione uszy, Sewen delikatny, nieco zaskoczony uśmiech.
+
+**P09-04:** Sewen cicho: „Znowu jesteś za blisko.”
+
+**P09-05:** Szybki, trochę speszony, ale tym razem nie ucieka wzrokiem: „Może trochę.” Oboje pozostają w tej bliskości przez krótką chwilę.
+
+## Cel strony
+Doprowadzić ich do najmniejszego dotąd dystansu, ale bez pocałunku. Oboje świadomie akceptują bliskość i nie próbują jej przerwać. Ostatni panel ma stworzyć naturalny punkt wyjścia dla przypadkowego zdarzenia na stronie 10.
