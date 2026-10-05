@@ -331,6 +331,107 @@ Rytm: spontaniczna pomoc → zauważenie → pytanie Sewen → nieśmiałe wyja�
 ## Cel strony
 Odwrócić wcześniejszą dynamikę — Sewen zaczyna świadomie odpowiadać na uwagę Szybkiego własnym gestem troski. Relacja przesuwa się o kolejny mały krok, bez deklaracji.
 
+## SZCZEGÓŁOWY SCENOPIS — STRONA 4
+
+### Założenie strony
+Sewen odpowiada na wcześniejsze zainteresowanie Szybkiego własnym, świadomym gestem troski. Nie mówi o uczuciach wprost — pokazuje, że również pamięta o nim i jego potrzebach.
+
+Rytm: przerwa → niespodziewany gest Sewen → wdzięczność Szybkiego → świadome odwzajemnienie → spokojna chwila razem → nieśmiałe spojrzenie.
+
+### P04-01 — „Zrobiłam też dla ciebie”
+**Kadr:** średni plan przy ladzie. Krótka przerwa w pracy.
+
+Sewen stawia na ladzie dwa kubki ciepłego napoju. Jeden z nich przesuwa w stronę Szybkiego.
+
+**Dialog Sewen:** „Zrobiłam też dla ciebie.”
+
+**Aktorsko Sewen:** naturalna swoboda, lekki ciepły uśmiech. Nie robi z gestu wielkiego wydarzenia.
+
+**Aktorsko Szybkiego:** zauważalnie zaskoczony. Spogląda na kubek, potem na Sewen.
+
+**Cel:** pierwszy wyraźny gest Sewen pokazujący, że również zwraca uwagę na Szybkiego.
+
+### P04-02 — „Dziękuję”
+**Kadr:** bliższe ujęcie Szybkiego przy ladzie.
+
+Szybki bierze lub przysuwa do siebie kubek.
+
+**Dialog Szybkiego:** „Dziękuję.”
+
+**Aktorsko:** lekki rumieniec, szczery uśmiech. Uszy delikatnie się unoszą.
+
+Szybki nie powinien być przesadnie speszony — gest Sewen sprawia mu po prostu wyraźną przyjemność.
+
+### P04-03 — „Ja też mogę pamiętać”
+**Kadr:** średnie zbliżenie obojga po dwóch stronach lub przy tej samej stronie lady.
+
+Sewen opiera dłonie o ladę i spogląda na Szybkiego.
+
+**Dialog Sewen:** „Pomyślałam, że skoro tak dobrze pamiętasz moje zwyczaje, to ja też mogę pamiętać o twoich.”
+
+**Aktorsko Sewen:** spokojna, ciepła i lekko rozbawiona. Wypowiada zdanie naturalnie, bez tonu deklaracji.
+
+**Aktorsko Szybkiego:** słucha uważnie. Widać, że słowa Sewen trafiają do niego mocniej, niż się spodziewał.
+
+**Cel:** Sewen świadomie nawiązuje do poprzedniej strony i pokazuje, że jego uwaga została przez nią zauważona oraz odwzajemniona.
+
+### P04-04 — „To chyba uczciwe”
+**Kadr:** średnie zbliżenie Szybkiego.
+
+Szybki patrzy na Sewen, po czym uśmiecha się szerzej.
+
+**Dialog Szybkiego:** „To chyba uczciwe.”
+
+**Aktorsko:** szerszy, szczery uśmiech niż wcześniej. Jego ogon lekko porusza się za nim, zdradzając zadowolenie.
+
+Uszy pozostają lekko uniesione.
+
+**Cel:** pokazać, że Szybki nie tylko docenia gest, ale czuje się dobrze z tym, że ich wzajemna uwaga zaczyna działać w obie strony.
+
+### P04-05 — Chwila ciszy
+**Kadr:** spokojny średni plan obojga przy ladzie.
+
+Oboje piją ciepły napój. Przez chwilę nie rozmawiają.
+
+Po pewnym czasie podnoszą wzrok i patrzą na siebie ponad kubkami.
+
+**Dialog:** brak.
+
+**Aktorsko Sewen:** spokojne, ciepłe spojrzenie.
+
+**Aktorsko Szybkiego:** lekko zawstydzony, ale nie odwraca wzroku natychmiast.
+
+**Cel:** pozwolić emocji wybrzmieć bez kolejnej kwestii dialogowej.
+
+### P04-06 — Pierwsza odwraca wzrok
+**Kadr:** bliższe, spokojne ujęcie obojga.
+
+Sewen jako pierwsza odwraca wzrok. Na jej twarzy pozostaje niewielki uśmiech.
+
+Szybki również spuszcza wzrok, ale jego uszy nadal pozostają lekko uniesione.
+
+**Dialog:** brak.
+
+**Zakończenie:** przerwa dobiega końca, ale między nimi pozostaje wyraźna świadomość, że ten gest był czymś więcej niż zwykłą uprzejmością.
+
+### Rytm emocjonalny strony
+1. Sewen wykonuje pierwszy świadomy gest troski.
+2. Szybki jest przyjemnie zaskoczony.
+3. Sewen pokazuje, że również pamięta o jego zwyczajach.
+4. Szybki przyjmuje to z wyraźnym szczęściem.
+5. Oboje pozwalają sobie na spokojną chwilę razem.
+6. Nieśmiałe spojrzenia potwierdzają wzajemność zainteresowania.
+
+### Kontrola ciągłości
+- Bezpośrednia kontynuacja strony 3.
+- Nadal ten sam poranek i wnętrze mleczarni.
+- Gest Sewen wynika bezpośrednio z jej obserwacji Szybkiego.
+- Relacja przesuwa się o jeden mały krok, bez deklaracji.
+- Brak pocałunku i brak nadmiernego kontaktu fizycznego.
+- Emocje pozostają subtelne i naturalne.
+- Ogon i uszy Szybkiego służą jako główne dodatkowe nośniki emocji.
+- Styl: Cartoon — mocno uproszczony.
+
 # STRONA 5 — „Nie tylko przypadek”
 ### P05 — 5 paneli
 **Status: APPROVED**
