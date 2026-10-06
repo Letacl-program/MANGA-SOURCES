@@ -969,3 +969,98 @@ Kulminacja rozdziału: krótki, przypadkowy i niewinny pocałunek, po którym ob
 
 ### ZAKOŃCZENIE ROZDZIAŁU
 Wszystkie 10 stron scenopisu R04 jest zaakceptowanych. Rozdział pozostaje zapisany jako **W TOKU** do czasu dalszego etapu pracy nad projektem.
+
+
+## SZCZEGÓŁOWY SCENOPIS — STRONA 10
+
+### Założenie strony
+Bezpośrednia kontynuacja strony 9. Najmniejszy dotąd dystans między Sewen i Szybkim prowadzi do krótkiego, całkowicie nieplanowanego zetknięcia ust podczas jednoczesnego ruchu po przedmiot. Pocałunek ma być bardzo krótki i niewinny. Oboje natychmiast zamierają, a po odsunięciu są wyraźnie zaskoczeni. Żadne nie odrzuca jednak drugiej osoby ani nie ucieka z sytuacji.
+
+Rytm: naturalna kontynuacja bliskości → nakładający się ruch → przypadkowy pocałunek → natychmiastowe zatrzymanie → zaskoczenie → uspokojenie sytuacji przez Sewen → cichy powrót do pracy.
+
+### P10-01 — „Ten sam ruch”
+**Kadr:** średni plan wnętrza mleczarni, bezpośrednia kontynuacja ustawienia z końca strony 9.
+
+Szybki próbuje sięgnąć po przedmiot, który Sewen wcześniej odkładała. Robi niewielki krok do przodu. W tym samym momencie Sewen pochyla się, żeby mu go podać.
+
+**Aktorsko Szybkiego:** naturalna koncentracja na przedmiocie; nie wykonuje celowego romantycznego gestu. Jest nadal lekko zawstydzony po sytuacji z poprzedniej strony.
+
+**Aktorsko Sewen:** spokojna i naturalna. Jej ruch jest zwykłą pomocą przy pracy.
+
+**Cel:** oba ruchy muszą wyglądać jak logiczna kontynuacja pracy i bliskości z P09, bez sugerowania, że któreś z nich planuje pocałunek.
+
+### P10-02 — „Przypadkowy pocałunek”
+**Kadr:** bliższe ujęcie obojga, skupione na ich twarzach i krótkim kontakcie.
+
+Ich ruchy nakładają się. Na bardzo krótką chwilę przypadkowo stykają się ustami.
+
+Oboje natychmiast zamierają.
+
+**Aktorsko:** kontakt jest momentalny i jednoznacznie przypadkowy. Nie ma przedłużania pocałunku, obejmowania, zamykania oczu w romantycznym geście ani żadnej erotyzacji.
+
+**Cel:** kulminacja ma wynikać wyłącznie z nałożenia dwóch zwykłych ruchów. To nie jest zaplanowany ani świadomie zainicjowany pocałunek.
+
+### P10-03 — „Zaskoczenie”
+**Kadr:** bliskie ujęcie obojga po natychmiastowym odsunięciu się o kilka centymetrów.
+
+Szybki ma szeroko otwarte oczy i wyraźnie podniesione uszy. Sewen jest równie zaskoczona. Przez moment żadne z nich nie wie, co powiedzieć.
+
+**Aktorsko Szybkiego:** wyraźne osłupienie, lekkie zawstydzenie; nie powinien wyglądać na rozbawionego ani pewnego siebie.
+
+**Aktorsko Sewen:** krótkie zaskoczenie i zakłopotanie. Nie odsuwa się gwałtownie i nie okazuje odrzucenia.
+
+**Dialog:** brak.
+
+**Cel:** pokazać, że oboje są zaskoczeni tym, co właśnie się wydarzyło.
+
+### P10-04 — „Nie masz za co”
+**Kadr:** średnie zbliżenie obojga po krótkiej pauzie.
+
+Szybki pierwszy odzyskuje głos.
+
+**Dialog Szybkiego:** „Ja… przepraszam.”
+
+Sewen po chwili odpowiada:
+
+**Dialog Sewen:** „Tym razem naprawdę nie masz za co.”
+
+**Aktorsko Szybkiego:** cicho, szczerze i z wyraźnym zakłopotaniem. Może na moment spuścić wzrok.
+
+**Aktorsko Sewen:** lekki, zakłopotany, ale ciepły uśmiech. Jej odpowiedź ma uspokoić Szybkiego i jasno pokazać, że nie traktuje zdarzenia jako powodu do odrzucenia go.
+
+**Cel:** Sewen nie składa deklaracji i nie próbuje nazwać relacji. Po prostu przyjmuje sytuację bez negatywnej reakcji.
+
+### P10-05 — „Wracają do pracy”
+**Kadr:** spokojny średnio-szeroki plan obojga przy stanowisku pracy.
+
+Po krótkiej ciszy oboje wracają do swoich obowiązków.
+
+**Aktorsko Szybkiego:** spuszcza wzrok, nadal wyraźnie zawstydzony. Jego ogon lekko się porusza, zdradzając emocje. Po chwili wraca do pracy.
+
+**Aktorsko Sewen:** patrzy na niego ciepło, ale nie przeciąga tego spojrzenia. Również wraca do pracy.
+
+Przez moment oboje pracują trochę ciszej niż wcześniej.
+
+**Dialog:** brak.
+
+**Zakończenie:** żadne nie próbuje uciec od drugiego ani opuścić miejsca. Między nimi pozostaje nowa świadomość tego, co się wydarzyło.
+
+### Rytm emocjonalny strony
+1. Naturalna kontynuacja bliskości z P09.
+2. Dwa zwykłe ruchy nakładają się na siebie.
+3. Dochodzi do bardzo krótkiego, przypadkowego pocałunku.
+4. Oboje natychmiast zamierają i odsuwają się o kilka centymetrów.
+5. Szybki przeprasza, a Sewen uspokaja go.
+6. Oboje wracają do pracy, pozostając obok siebie.
+
+### Kontrola ciągłości
+- Bezpośrednia kontynuacja strony 9.
+- To samo miejsce i etap pracy w mleczarni.
+- Pocałunek wynika z nałożenia zwykłych ruchów i nie jest zaplanowany.
+- Kontakt ust jest bardzo krótki, niewinny i bez erotyzacji.
+- Oboje są wyraźnie zaskoczeni.
+- Sewen nie odrzuca Szybkiego, ale też nie przechodzi nagle do deklaracji związku.
+- Po wydarzeniu oboje pozostają w miejscu i wracają do pracy.
+- Szybki zachowuje charakterystyczną reakcję emocjonalną przez uszy i ogon.
+- Strona zamyka rozdział jako kulminację, nie ustanawiając nagle związku.
+- Styl: **Cartoon — mocno uproszczony**.
