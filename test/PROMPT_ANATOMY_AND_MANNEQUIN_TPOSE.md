@@ -1,119 +1,124 @@
-# Zasady generowania promptów anatomii i kart technicznych
+# Uniwersalne zasady promptów anatomicznych i kart technicznych postaci
 
-**Status:** OBOWIĄZUJĄCA ZASADA ROBOCZA  
+**Status:** OBOWIĄZUJĄCA PROCEDURA ROBOCZA  
 **Ścieżka:** `test/PROMPT_ANATOMY_AND_MANNEQUIN_TPOSE.md`  
-**Zakres:** Elara / testy spójności anatomii / generowanie ilustracji Cartoon / karty techniczne
+**Zakres:** Wszystkie postacie, style, pozy, testy spójności, ilustracje oraz karty techniczne.
 
 ## 1. Zasada nadrzędna
 
-Przy każdym generowaniu lub poprawianiu ilustracji Elary należy jawnie korzystać z parametrów i zasad z dokumentacji źródłowej. To obowiązuje domyślnie, bez potrzeby ponownego przypominania przez użytkownika.
+Przed każdym generowaniem lub poprawianiem postaci należy korzystać z jej zatwierdzonych źródeł referencyjnych. Procedura obowiązuje domyślnie i nie wymaga ponownego przypominania przez użytkownika.
 
-Hierarchia źródeł:
-1. `char/Elara/ELARA.md` — kanoniczna tożsamość, Character Lock, ustalone cechy i zatwierdzone estymaty wymiarów.
-2. **Karta Manekin T-POSE** — nadrzędny wzorzec wizualno-anatomiczny i układ proporcji.
-3. Techniczny T-POSE — szczegółowe wymiary i proporcje, interpretowane zgodnie z dwoma wyższymi źródłami.
-4. Wizualna karta T-POSE — wygląd, kolory i detale.
+Zasady są uniwersalne, ale **wartości anatomiczne, cechy wyglądu i hierarchia konkretnych źródeł muszą pochodzić z dokumentacji danej postaci**. Nie wolno przenosić wymiarów, cech ani ograniczeń jednej postaci na inną.
 
-Jeżeli źródła wydają się sprzeczne, nie zmieniaj ich po cichu. Wskaż konflikt i poproś o decyzję, gdy rozstrzygnięcie jest konieczne.
+### Ustal hierarchię źródeł dla konkretnej postaci
 
-## 2. Dane referencyjne Elary
+Przed generowaniem ustal, które materiały są dostępne i jaką mają rangę. Typowy układ może obejmować:
+1. Kanoniczny plik MD postaci — tożsamość, Character Lock, stałe cechy i zatwierdzone parametry.
+2. Zatwierdzoną Kartę Manekin T-POSE — nadrzędny wzorzec wizualno-anatomiczny, jeśli istnieje i został wskazany jako taki.
+3. Techniczny T-POSE — wymiary, punkty odniesienia i proporcje.
+4. Wizualną kartę postaci — wygląd, kolory, materiały i detale.
+5. Zatwierdzone ilustracje sceniczne — przykłady pozy, stroju lub ekspresji, o ile nie stoją w sprzeczności ze źródłami wyższego rzędu.
 
-Poniższe liczby to **szacunkowe wartości projektu odczytane z zaakceptowanej ilustracji**, przeskalowane według wzrostu 170 cm i zaokrąglone do 5 cm. Nie są pomiarami fizycznymi.
+Ten układ jest wzorcem organizacyjnym, nie założeniem, że każda postać ma wszystkie wymienione pliki. Jeśli użytkownik lub dokumentacja określa inną hierarchię, stosuj jawnie zatwierdzoną hierarchię tej postaci.
 
-### Główne proporcje
-- Wzrost bez rogów: **170 cm**.
-- Wzrost do czubków rogów: **185 cm**.
-- Wysokość oczu: **160 cm**.
-- Długość/głębokość głowy: **25 cm**.
-- Długość tułowia: **65 cm**.
-- Długość nóg: **80 cm**.
-- Długość ogona: **75 cm**.
-- Rozstaw czubków rogów: **35 cm**.
-- Szerokość barków: **45 cm**.
-- Szerokość bioder: **60 cm**.
-- Głębokość klatki piersiowej: **50 cm**.
+Jeżeli źródła są sprzeczne, nie poprawiaj ich po cichu. Wskaż konflikt i poproś o rozstrzygnięcie, gdy jest ono konieczne. Nie zakładaj dostępu do plików ani kart z innych rozmów lub środowisk bez upoważnienia.
 
-### Obwody referencyjne
-- Głowa: **55 cm**.
-- Szyja: **35 cm**.
-- Biust: **130 cm**.
-- Talia: **85 cm**.
-- Biodra: **120 cm**.
-- Udo w górnej części: **70 cm**.
-- Łydka: **45 cm**.
-- Kostka: **30 cm**.
+## 2. Wydobycie danych referencyjnych
 
-### Cechy anatomiczne
-- Dwa gładkie, kości słoniowej, łagodnie zakrzywione rogi; wysokość około **15 cm**, szerokość podstawy około **6 cm**.
-- Szerokie bydlęce uszy z różowym wnętrzem; długość około **18 cm**, wysokość około **12 cm**. Bez ludzkich małżowin usznych.
-- Długi brązowy ogon zakończony ciemniejszą, puszystą kitą; kokarda ogona około **25 cm**.
-- Ciemne rozszczepione kopyta; widok z przodu około **10 cm szerokości × 8 cm wysokości**, widok z boku około **12 cm długości × 8 cm wysokości**.
-- Skóra jasna, kremowa; włosy długie, falowane, kasztanowobrązowe, jaśniejsze złoto-blond pasma przy twarzy i ku końcom.
-- Duże niebieskie oczy, zaokrąglona twarz.
-- Wyraźnie krągła sylwetka, szerokie biodra, grube uda, miękko wcięta talia, łagodnie zaokrąglony brzuch oraz **bardzo duży, ciężki biust**.
-- Nie dodawaj pełnego futra na ciele — jego występowanie nie jest ustalone.
-- Dłonie pozostają humanoidalne.
+Przed promptem zbierz z dokumentacji konkretnej postaci:
+- nazwę/ID postaci oraz kanoniczny plik źródłowy;
+- stałe cechy tożsamości i anatomii;
+- zatwierdzoną sylwetkę i relacje proporcji;
+- dostępne wymiary liczbowe, jednostki i sposób ich oszacowania;
+- cechy gatunkowe lub konstrukcyjne, liczbę i budowę kończyn, uszu, ogona, rogów, skrzydeł, stóp itp., jeśli występują;
+- wygląd głowy, twarzy, włosów, skóry/powierzchni, kolorystykę i znaki szczególne;
+- elementy zmienne: strój, fryzurę, ekspresję, pozę, rekwizyty i tło;
+- cechy nieustalone, których nie wolno samodzielnie dopowiadać.
 
-## 3. Jak budować prompt do ilustracji
+### Zasady wymiarów
+- Wpisuj do promptu konkretne wartości z dokumentacji, gdy są dostępne i istotne dla testu.
+- Zachowuj jednostki oraz nazwy pomiarów z dokumentacji.
+- Rozróżniaj wartości zmierzone, szacunki koncepcyjne i proporcje opisowe.
+- Nie wymyślaj brakujących liczb ani nie przedstawiaj estymat jako pomiarów fizycznych.
+- Gdy brak wymiarów liczbowych, użyj opisów relacyjnych zatwierdzonych w źródle, np. „biodra szersze od barków” albo „głowa stanowi około X wysokości postaci” — tylko jeśli źródło rzeczywiście to określa.
+- Jeżeli wymiaru nie da się odczytać lub źródła go nie podają, oznacz go jako nieustalony zamiast zgadywać.
 
-Każdy prompt powinien zawierać wszystkie poniższe warstwy:
+## 3. Budowa promptu do ilustracji
 
-1. **Tożsamość i Character Lock:** dorosła postać Elary jako bovine Beastfolk, stałe cechy głowy, włosów, rogów, uszu, ogona, kopyt i skóry.
-2. **Stałe proporcje:** wpisz najważniejsze wartości liczbowe, zwłaszcza 170 cm bez rogów, biust 130 cm, talia 85 cm, biodra 120 cm, szerokość barków 45 cm i szerokość bioder 60 cm. Wymień pełną tabelę, gdy test dotyczy dokładniejszej kontroli anatomii.
-3. **Wzorzec obrazkowy:** jawnie wskaż Kartę Manekin T-POSE jako nadrzędny wzorzec proporcji i sylwetki, a `ELARA.md` jako źródło tożsamości i parametrów.
-4. **Zadanie panelu:** określ jedną pozę, emocję, strój, styl, tło i kadr.
-5. **Ochrona anatomii:** zmiana pozy, perspektywy, emocji, ubrania, oświetlenia lub stylu nie może zmieniać proporcji bazowych.
-6. **Kontrola kompozycji:** pełna postać od rogów po kopyta, kończyny nieucięte, czytelne dłonie/kopyta/ogon, bez nadmiernego skrótu perspektywicznego, chyba że jest on celowo testowany.
-7. **Negatywne ograniczenia:** nie zmniejszaj ani nie powiększaj biustu względem wzorca; nie zwężaj bioder ani ud; nie wydłużaj lub skracaj tułowia/nóg dla dopasowania do pozy; nie dodawaj ludzkich uszu ani pełnego futra; nie zmieniaj liczby i rodzaju kończyn.
-8. **Format:** dla pojedynczych testów używaj jednego pionowego panelu z pełną sylwetką. Planszę wielopanelową stosuj tylko wtedy, gdy została wyraźnie zamówiona.
+Każdy prompt powinien zawierać następujące warstwy:
 
-### Szablon promptu
+1. **Tożsamość i Character Lock:** nazwa postaci, gatunek/typ, stałe cechy wyglądu i anatomii.
+2. **Parametry i proporcje:** wpisz kluczowe wartości z pliku MD oraz zatwierdzonych kart. Przy teście anatomicznym dołącz pełen zestaw istotnych wymiarów, a nie tylko ogólny opis.
+3. **Wzorzec referencyjny:** nazwij konkretne pliki/karty postaci, które mają pierwszeństwo. Nie odwołuj się do nieudostępnionego materiału tak, jakby generator miał do niego dostęp; jeśli obraz referencyjny nie jest przekazywany do generatora, opisz jego kluczowe cechy tekstowo.
+4. **Cel panelu:** określ jedną pozę, emocję, strój, styl, kadr i tło.
+5. **Niezmienność anatomii:** zmiana pozy, perspektywy, emocji, stroju, oświetlenia i stylu nie może zmieniać bazowych proporcji ani stałych cech.
+6. **Kompozycja:** określ, czy potrzebna jest cała postać, widoki ortogonalne, zbliżenia, konkretne proporcje kadru i widoczność kończyn.
+7. **Ograniczenia negatywne:** wypisz typowe błędy, których należy unikać, zgodnie z dokumentacją danej postaci.
+8. **Format wyniku:** jeden panel, arkusz techniczny lub plansza wielopanelowa — zgodnie z zamówieniem.
 
-> Użyj `char/Elara/ELARA.md` oraz Karty Manekin T-POSE jako obowiązujących źródeł. Zachowaj Character Lock i stałe proporcje Elary. Wzrost bez rogów 170 cm; wzrost do czubków rogów 185 cm; biust 130 cm; talia 85 cm; biodra 120 cm; szerokość barków 45 cm; szerokość bioder 60 cm; tułów 65 cm; nogi 80 cm; ogon 75 cm. To są estymaty projektowe, nie pomiary fizyczne. Zachowaj bardzo duży, ciężki biust, szerokie biodra, grube uda, miękką talię i zaokrąglony brzuch zgodnie z kartą. Zachowaj dwa rogi, bydlęce uszy bez ludzkich uszu, ogon z puszystą kitą, ciemne rozszczepione kopyta, niebieskie oczy i długie falowane kasztanowe włosy z jaśniejszymi pasmami. Nie dodawaj pełnego futra. Wykonaj [poza] w stylu [styl], z emocją [emocja], w stroju [strój], na prostym tle. Pokaż pełną postać w pionowym kadrze od rogów po kopyta. Poza i perspektywa nie mogą zmieniać bazowej anatomii ani proporcji.
+### Uniwersalny szablon promptu
+
+> Użyj [KANONICZNY PLIK MD POSTACI] oraz [ZATWIERDZONE KARTY REFERENCYJNE] zgodnie z określoną hierarchią źródeł. Zachowaj Character Lock i wszystkie stałe cechy postaci. Uwzględnij następujące zatwierdzone parametry: [WSTAW WYMIARY I PROPORCJE Z DOKUMENTACJI, Z JEDNOSTKAMI I OZNACZENIEM ESTYMAT, JEŚLI DOTYCZY]. Zachowaj relacje proporcji i charakterystyczną sylwetkę z karty. Nie zmieniaj anatomii w celu dopasowania postaci do pozy, kadru, stroju ani stylu. Nie dodawaj cech, których źródła nie ustalają. Wykonaj [POZA / AKCJA] w stylu [STYL], z emocją [EMOCJA], w stroju [STRÓJ], na tle [TŁO]. Kadrowanie: [KADR]. Zapewnij czytelność wszystkich istotnych części ciała i unikaj przypadkowego ucinania kończyn. [DODATKOWE OGRANICZENIA WŁAŚCIWE DLA TEJ POSTACI I TESTU].
+
+Przed wysłaniem promptu zastąp wszystkie pola w nawiasach rzeczywistymi danymi ze źródeł. Nie przekazuj generatorowi przykładowych wymiarów należących do innej postaci.
 
 ## 4. Generowanie technicznej karty / manekina
 
-Gdy celem jest test proporcji lub baza techniczna, nie zastępuj karty technicznej zwykłą ilustracją sceniczną.
+Gdy celem jest sprawdzenie proporcji, nie zastępuj karty technicznej zwykłą ilustracją sceniczną.
 
-Wymagany rezultat:
-- Jeden arkusz techniczny o czystym, neutralnym tle.
-- Widok z przodu, z boku i z tyłu w tej samej skali; najlepiej neutralna pozycja A/T-pose.
-- Cała sylwetka widoczna w każdym widoku.
-- Siatka powierzchniowa lub linie przekrojów na nieprzezroczystym, neutralnym manekinie/stroju technicznym.
-- Punkty odniesienia i linie wymiarowe, opisane jednostkami.
-- Zbliżenia elementów charakterystycznych: głowa, rogi, uszy, ogon, kopyta.
-- Tabela wymiarów zgodna z `ELARA.md` i kartą techniczną.
-- Wymiary oznacz jako „szacunki projektowe”, nie jako pomiary anatomiczne.
-- Nie pozwól, by podpisy lub grafika pomiarowa zasłaniały sylwetkę.
-- W razie konfliktu między wygenerowaną planszą a źródłem, pierwszeństwo ma hierarchia źródeł z sekcji 1.
+Wybierz elementy odpowiednie dla zadania:
+- Czysty, neutralny arkusz techniczny.
+- Widoki z przodu, boku i tyłu w tej samej skali; neutralna pozycja A-pose lub T-pose, o ile anatomia postaci na to pozwala.
+- Cała postać widoczna w każdym wymaganym widoku.
+- Siatka powierzchniowa, linie osi, przekroje i punkty odniesienia na neutralnym, nieprzezroczystym manekinie lub stroju technicznym, gdy potrzebna jest kontrola anatomii.
+- Linie wymiarowe z podpisanymi jednostkami, czytelną legendą i tabelą parametrów.
+- Zbliżenia cech charakterystycznych, które wymagają osobnej kontroli.
+- Wymiary i adnotacje zgodne z kanonicznym MD i zatwierdzonymi kartami danej postaci.
+- Oznaczenie wartości jako pomiarów, szacunków koncepcyjnych lub danych nieustalonych.
+- Podpisy nie mogą zasłaniać sylwetki ani utrudniać oceny proporcji.
+
+Nie wszystkie postacie mają ludzką anatomię ani standardowe kończyny. Układ widoków, siatkę i punkty odniesienia należy dostosować do zatwierdzonej anatomii konkretnej postaci, nie zaś normalizować ją do uniwersalnego humanoida.
+
+Jeżeli obraz wygenerowany i źródła się różnią, pierwszeństwo ma zatwierdzona hierarchia źródeł. Karta techniczna nie staje się kanoniczna tylko dlatego, że została wygenerowana; wymaga osobnej akceptacji użytkownika, jeśli taki jest proces projektu.
 
 ## 5. Kontrola po wygenerowaniu
 
-Po wygenerowaniu sprawdzaj:
-- Czy biust nadal odpowiada opisowi „bardzo duży, ciężki” i estymacie 130 cm?
-- Czy talia, brzuch, biodra i uda zachowują ustalony typ sylwetki?
-- Czy tułów i nogi nie zmieniają pozornie długości w sposób wynikający z błędu rysunku (odróżniaj to od normalnego skrótu perspektywicznego)?
-- Czy rogi, uszy, ogon, kopyta i dłonie są prawidłowe?
-- Czy pokazano całą postać i czy kończyny nie są przypadkowo ukryte lub ucięte?
-- Czy ubranie jest zgodne z zamówionym wariantem?
-- Czy styl zmienił jedynie prezentację, a nie anatomię?
+Porównaj wynik z właściwymi źródłami i sprawdź:
+- tożsamość i wszystkie stałe cechy;
+- sylwetkę oraz relacje proporcji;
+- zgodność wymiarów i adnotacji z dokumentacją;
+- liczbę, budowę i położenie kończyn oraz cech gatunkowych/konstrukcyjnych;
+- spójność głowy, twarzy, włosów, skóry/powierzchni i znaków szczególnych;
+- czy strój nie maskuje błędów, nie zmienia wizualnie bazowej anatomii ani nie dodaje cech sprzecznych ze źródłem;
+- czy cała postać jest widoczna, a istotne części nie są przypadkowo zasłonięte;
+- czy perspektywa powoduje normalne skróty optyczne, czy rzeczywisty błąd rysunku;
+- czy styl zmienia jedynie sposób prezentacji, a nie tożsamość lub anatomię.
 
-Status wyniku:
-- `PASS` — rezultat zgodny z ustalonym wzorcem w ocenianym zakresie.
-- `PARTIAL` — podstawowa tożsamość jest zachowana, ale część kryteriów pozostaje nieczytelna lub wymaga korekty.
-- `FAIL` — naruszono kluczowy element Character Lock lub istotne proporcje.
-- `PASS — Perfecto` — jawny werdykt użytkownika; nie oznacza automatycznego zapisu do repozytorium ani zmiany karty źródłowej.
+### Status wyniku
+- `PASS` — rezultat zgodny z zatwierdzonym wzorcem w ocenianym zakresie.
+- `PARTIAL` — podstawowa tożsamość jest zachowana, ale część kryteriów jest nieczytelna lub wymaga korekty.
+- `FAIL` — naruszono kluczowy element Character Lock, istotne proporcje lub wymagania zadania.
+- `PASS — Perfecto` — jawny werdykt użytkownika; sam w sobie nie oznacza zapisu do repozytorium ani zmiany źródeł kanonicznych.
 
-Nie twierdź, że konkretne centymetry zostały fizycznie zweryfikowane na ilustracji. Wymiary są parametrami projektowymi, a widoczna zgodność obrazu jest oceną wizualną.
+Nie twierdź, że konkretne wymiary fizyczne zostały zweryfikowane na podstawie ilustracji. Wizualna ocena zgodności nie zastępuje pomiaru technicznego.
 
-## 6. Zasada ciągłości
+## 6. Ciągłość i stosowanie domyślne
 
-Ta procedura obowiązuje domyślnie przy kolejnych promptach i korektach Elary. Nie wymaga ponownej prośby użytkownika. Karta Manekin T-POSE pozostaje wzorcem anatomicznym; zaakceptowane ilustracje sceniczne nie nadpisują jej samoistnie.
+Ta procedura obowiązuje domyślnie przy kolejnych promptach, poprawkach, testach anatomii oraz generowaniu kart technicznych dla wszystkich postaci objętych projektem. Nie wymaga ponownej prośby użytkownika.
+
+Przy każdej nowej postaci:
+1. Odszukaj i wykorzystaj wyłącznie źródła dostępne i autoryzowane w bieżącym środowisku.
+2. Ustal jej własny Character Lock i hierarchię źródeł.
+3. Wstaw do promptu jej własne parametry — nigdy parametry Elary ani innej postaci.
+4. Jeśli brakuje źródeł lub istotnych danych, wskaż brak zamiast rekonstruować je na podstawie innych rozmów.
+5. Nie aktualizuj automatycznie kanonicznej dokumentacji na podstawie pojedynczej wygenerowanej ilustracji.
 
 ---
 
-## Źródła
-- `char/Elara/ELARA.md` — https://github.com/Letacl-program/MANGA-SOURCES/blob/main/char/Elara/ELARA.md
-- Karta Manekin T-POSE — zaakceptowany przez użytkownika wzorzec wizualno-anatomiczny z bieżącego kontekstu pracy.
+## Źródła i zakres
 
-**Uwaga:** plik definiuje procedurę pracy i nie zatwierdza automatycznie żadnej ilustracji ani nie zmienia Character Lock.
+Dokument definiuje **uniwersalną metodę pracy**, a nie kanoniczną anatomię żadnej konkretnej postaci. Szczegóły każdej postaci pochodzą z jej własnych plików źródłowych i zatwierdzonych kart.
+
+**Przykład zastosowania:** `char/Elara/ELARA.md` może być źródłem parametrów Elary, ale jego wymiary i cechy nie są domyślnymi parametrami innych postaci.
+
+**Uwaga:** zapis procedury nie zatwierdza żadnej ilustracji, nie tworzy automatycznie kart źródłowych i nie zmienia Character Lock.
