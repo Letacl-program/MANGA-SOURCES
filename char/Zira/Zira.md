@@ -1,6 +1,6 @@
 # ZIRA — CHARACTER SOURCE / WORKING T-POSE
 
-**Status:** WORKING RECORD — CANONICAL T-POSE NOT ESTABLISHED  
+**Status:** VISUAL T-POSE PASS — CANONICAL SOURCE STATUS RECORDED BELOW  
 **Branch:** `main`  
 **Path:** `char/Zira/Zira.md`  
 **Character ID:** ZIRA-GOBLIN-001 (provisional)  
@@ -17,8 +17,8 @@ This file follows the structure of `char/Elara/ELARA.md`. Elara is used as a doc
 - **Species:** Goblin
 - **Presentation:** Female goblin
 - **Role / occupation:** NOT ESTABLISHED
-- **Age:** NOT ESTABLISHED
-- **Height:** The generated sheet labels 108 cm. This is a provisional concept value within the species-defined range of 90–120 cm, not a confirmed canonical measurement.
+- **Age:** 19 years (user-confirmed)
+- **Height:** 108 cm (provisional working value, explicitly supplied by the user; not a physically verified measurement).
 - **Culture / community:** NOT ESTABLISHED
 - **Magic potential / training:** NOT ESTABLISHED
 - **Family / heritage:** NOT ESTABLISHED
@@ -59,36 +59,22 @@ The goblin species source does not determine Zira's occupation, personality, int
 - Green, smooth skin consistent with the goblin species source.
 - The concept uses an olive/lime green tone. Exact HEX values: NOT ESTABLISHED.
 
-## 3. Current visual-sheet values and status
+## 3. Approved values and measurement policy
 
-**Measurement basis:** values copied from labels on the generated concept sheet. They have not been independently verified against a canonical T-POSE or technical source. They are illustration-guide proposals, not physical measurements.
+Only the following numeric values may be shown as current user-approved working data. They are not all physically verified measurements.
 
-| Parameter | Value shown | Status |
+| Parameter | Value | Status |
 |---|---:|---|
-| Height | 108 cm | Provisional concept value within species range |
-| Height to eye level | 92 cm | Generator-labelled estimate; unverified |
-| Head height | 25 cm | Generator-labelled estimate; unverified |
-| Head depth | 18 cm | Generator-labelled estimate; unverified |
-| Neck circumference | 24 cm | Generator-labelled estimate; unverified |
-| Torso length | 38 cm | Generator-labelled estimate; unverified |
-| Leg length | 70 cm | Generator-labelled estimate; unverified |
-| Bust circumference | 78 cm | Generator-labelled estimate; unverified |
-| Waist circumference | 52 cm | Generator-labelled estimate; unverified |
-| Hip circumference | 78 cm | Generator-labelled estimate; unverified |
-| Shoulder width | 28 cm | Generator-labelled estimate; unverified |
-| Hip width | 32 cm | Generator-labelled estimate; unverified |
-| Thigh circumference | 48 cm | Generator-labelled estimate; unverified |
-| Foot length | 16 cm | Generator-labelled estimate; unverified |
-| Hand length | 8 cm | Generator-labelled estimate; unverified |
-| Ear length | 9 cm | Generator-labelled estimate; unverified |
-| Ear width | 3 cm | Generator-labelled estimate; unverified |
-| Nose label | 2.8 cm | Generator-labelled estimate; measurement definition unclear |
-| Fang/tooth label | 1.2 cm | Generator-labelled estimate; measurement definition unclear |
+| Age | 19 years | User-confirmed |
+| Height | 108 cm | Provisional working value, user-supplied; not physically verified |
+| Bust circumference | 78 cm | Conceptual estimate explicitly approved for display; not physically measured |
+
+All other individual measurements are `NOT ESTABLISHED` and must be omitted from measurement callouts or shown only as `NOT ESTABLISHED`, never assigned a guessed number. Numeric labels that appeared in generated images—including waist, hips, thighs, limbs, head, ears, nose, and teeth—are not accepted data and must not be copied into the character specification.
 
 ### Rules for use
-- Do not report these as physically measured anatomy.
-- Do not treat them as a validated technical specification or replacement for a canonical T-POSE.
-- Preserve the requested wide-hip silhouette as a provisional design direction, not as proof that each listed value is accurate.
+- Never present the height or bust circumference as physically verified measurements.
+- Do not treat image-generated numeric labels as validated technical data.
+- Preserve the requested wide-hip silhouette as a visual design requirement, without inventing circumference or width values.
 - Never fill missing values by guessing; label them `NOT ESTABLISHED`.
 
 ## 4. Outfit / presentation
@@ -112,6 +98,7 @@ The goblin species source does not determine Zira's occupation, personality, int
 
 ### PROVISIONAL — current Zira concept
 - Name: Zira.
+- Age: 19 years.
 - Female goblin presentation.
 - Red/orange high ponytail.
 - Amber/golden eyes.
@@ -126,8 +113,7 @@ The goblin species source does not determine Zira's occupation, personality, int
 - Technical annotations and dimension lines.
 
 ### NOT ESTABLISHED — do not invent
-- Age.
-- Canonical individual height and physical measurements.
+- Exact measurements beyond the explicitly listed working values.
 - Exact body circumferences and widths.
 - Exact eye, hair, and skin HEX values.
 - Permanent markings, scars, tattoos, or jewelry.
@@ -153,12 +139,13 @@ General rules drawn from `World/races/GOBLIN.md` on branch `World`:
 
 ## 7. Reference status and verdict
 
-- **Current artifact:** generated technical mannequin sheet for Zira created in this conversation.
-- **Canonical T-POSE status:** NOT ESTABLISHED.
-- **Formal independent visual audit:** NOT PERFORMED.
-- **Character-specific source dimensions:** NOT ESTABLISHED; only provisional generator labels are listed above.
-- **Current file status:** working character record, awaiting explicit approval and any required technical review.
-- A generated image or positive aesthetic reaction does not automatically create a canonical T-POSE, establish a final Character Lock, or validate numeric dimensions.
+- **Current artifact:** generated technical T-POSE sheet for Zira created in this conversation.
+- **Visual T-POSE review:** PASS, explicitly approved by the user.
+- **Approved visual reference:** the generated T-POSE sheet with front, left profile, right profile, back, face expressions, details, palette, and measurement panel.
+- **Visual status:** accepted as the approved visual reference for the current T-POSE stage.
+- **Numeric-data status:** only age 19 years, provisional height 108 cm, and conceptual bust circumference 78 cm are approved for use as stated above. Other generated measurement labels are rejected as unverified and must not be treated as source data.
+- **Character Lock:** visual acceptance does not by itself confirm every outfit/accessory as permanent; fixed versus variable elements remain governed by the sections above.
+- **Canonical source status:** the visual T-POSE has passed review, but numeric values remain provisional where explicitly marked and the generated sheet itself is not evidence that other dimensions are measured.
 
 ## 8. Presentation defaults
 
