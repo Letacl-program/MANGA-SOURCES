@@ -59,24 +59,38 @@ The goblin species source does not determine Zira's occupation, personality, int
 - Green, smooth skin consistent with the goblin species source.
 - The concept uses an olive/lime green tone. Exact HEX values: NOT ESTABLISHED.
 
-## 3. Approved values and measurement policy
+## 3. Approved values and measurements
 
-Only the following numeric values may be shown as current user-approved working data. They are not all physically verified measurements.
+The following dimensions were accepted by the user through review of Zira's technical mannequin/T-POSE cards. They are approved **design measurements for the character sheet**; this does not mean they were obtained by physical measurement.
 
 | Parameter | Value | Status |
 |---|---:|---|
 | Age | 19 years | User-confirmed |
-| Height | 108 cm | Provisional working value, user-supplied; not physically verified |
-| Bust circumference | 78 cm | Conceptual estimate explicitly approved for display; not physically measured |
-
-All other individual measurements are `NOT ESTABLISHED` and must be omitted from measurement callouts or shown only as `NOT ESTABLISHED`, never assigned a guessed number. Numeric labels that appeared in generated images—including waist, hips, thighs, limbs, head, ears, nose, and teeth—are not accepted data and must not be copied into the character specification.
+| Height | 108 cm | Approved working value |
+| Height to eye level | 92 cm | Accepted from technical card |
+| Head height | 25 cm | Accepted from technical card |
+| Head depth | 18 cm | Accepted from technical card |
+| Neck circumference | 24 cm | Accepted from technical card |
+| Torso length | 38 cm | Accepted from technical card |
+| Leg length | 70 cm | Accepted from technical card |
+| Bust circumference | 78 cm | Accepted conceptual estimate |
+| Waist circumference | 52 cm | Accepted from technical card |
+| Hip circumference | 78 cm | Accepted from technical card |
+| Shoulder width | 28 cm | Accepted from technical card |
+| Hip width | 32 cm | Accepted from technical card |
+| Thigh circumference | 48 cm | Accepted from technical card |
+| Foot length | 16 cm | Accepted from technical card |
+| Hand length | 8 cm | Accepted from technical card |
+| Ear length | 9 cm | Accepted from technical card |
+| Ear width | 3 cm | Accepted from technical card |
+| Nose label | 2.8 cm | Accepted from technical card |
+| Fang/tooth label | 1.2 cm | Accepted from technical card |
 
 ### Rules for use
-- Never present the height or bust circumference as physically verified measurements.
-- Do not treat image-generated numeric labels as validated technical data.
-- Preserve the requested wide-hip silhouette as a visual design requirement, without inventing circumference or width values.
-- Never fill missing values by guessing; label them `NOT ESTABLISHED`.
-
+- Treat the listed values as accepted dimensions for Zira's current design and technical cards.
+- The height is an approved working value, and the bust circumference remains a conceptual estimate; neither should be described as a physical measurement.
+- Preserve the accepted wide-hip silhouette and the proportions shown by the approved T-POSE sheet.
+- Any new dimension not listed here remains `NOT ESTABLISHED` until accepted; do not guess additional values.
 ## 4. Outfit / presentation
 
 - The generated anatomy sheet depicts Zira in a minimal dark undergarment to make the silhouette visible.
@@ -113,7 +127,7 @@ All other individual measurements are `NOT ESTABLISHED` and must be omitted from
 - Technical annotations and dimension lines.
 
 ### NOT ESTABLISHED — do not invent
-- Exact measurements beyond the explicitly listed working values.
+- Additional measurements not listed in Section 3.
 - Exact body circumferences and widths.
 - Exact eye, hair, and skin HEX values.
 - Permanent markings, scars, tattoos, or jewelry.
@@ -143,7 +157,7 @@ General rules drawn from `World/races/GOBLIN.md` on branch `World`:
 - **Visual T-POSE review:** PASS, explicitly approved by the user.
 - **Approved visual reference:** the generated T-POSE sheet with front, left profile, right profile, back, face expressions, details, palette, and measurement panel.
 - **Visual status:** accepted as the approved visual reference for the current T-POSE stage.
-- **Numeric-data status:** only age 19 years, provisional height 108 cm, and conceptual bust circumference 78 cm are approved for use as stated above. Other generated measurement labels are rejected as unverified and must not be treated as source data.
+- **Numeric-data status:** the dimensions listed in Section 3 are accepted for use in Zira's current design and technical cards. Height remains an approved working value and bust circumference remains a conceptual estimate; the values are design specifications, not claims of physical measurement.
 - **Character Lock:** visual acceptance does not by itself confirm every outfit/accessory as permanent; fixed versus variable elements remain governed by the sections above.
 - **Canonical source status:** the visual T-POSE has passed review, but numeric values remain provisional where explicitly marked and the generated sheet itself is not evidence that other dimensions are measured.
 
