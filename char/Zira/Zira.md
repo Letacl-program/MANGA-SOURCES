@@ -1,13 +1,13 @@
 # ZIRA — CHARACTER SOURCE / WORKING T-POSE
 
-**Status:** VISUAL T-POSE PASS — CANONICAL SOURCE STATUS RECORDED BELOW  
+**Status:** VISUAL T-POSE PASS — CHARACTER LOCK ACTIVE  
 **Branch:** `main`  
 **Path:** `char/Zira/Zira.md`  
 **Character ID:** ZIRA-GOBLIN-001 (provisional)  
 **Species:** Goblin  
 **Visual style:** Cartoon — uproszczony
 
-This file follows the structure of `char/Elara/ELARA.md`. Elara is used as a document-structure example only; her anatomy and measurements are not transferred to Zira. The generated Zira sheet is a provisional visual concept, not automatically a canonical T-POSE or a validated technical measurement source.
+This file follows the structure of `char/Elara/ELARA.md`. Elara is used as a document-structure example only; her anatomy and measurements are not transferred to Zira. The approved Zira T-POSE is the active visual reference. Its accepted measurements are design-sheet specifications, not claims of physical measurement.
 
 ---
 
@@ -18,21 +18,21 @@ This file follows the structure of `char/Elara/ELARA.md`. Elara is used as a doc
 - **Presentation:** Female goblin
 - **Role / occupation:** NOT ESTABLISHED
 - **Age:** 19 years (user-confirmed)
-- **Height:** 108 cm (provisional working value, explicitly supplied by the user; not a physically verified measurement).
+- **Height:** 108 cm (user-approved design value; not a physically measured value).
 - **Culture / community:** NOT ESTABLISHED
 - **Magic potential / training:** NOT ESTABLISHED
 - **Family / heritage:** NOT ESTABLISHED
 
 The goblin species source does not determine Zira's occupation, personality, intelligence, culture, or magical abilities.
 
-## 2. Visual identity — provisional working reference
+## 2. Visual identity — approved working reference
 
 ### Overall build and proportions
 - Small, humanoid goblin build within the species' general height range.
 - Light, agile, flexible silhouette, with a relatively large head and expressive face.
 - Large, pointed ears, large hands, and large feet as general goblin traits.
 - The generated concept intentionally shows a pronounced waist-to-hip contrast and visibly wide hips, as requested by the user.
-- Exact individual proportions and measurements are not established by `World/races/GOBLIN.md`; current image values are provisional concept labels only.
+- Individual proportions and measurements are governed by the accepted-value table in Section 3 and the approved T-POSE measurement points; species-level rules do not override those character-specific values.
 
 ### Hair
 - Red/orange hair, shown in a high ponytail with loose face-framing strands in the generated concept.
@@ -65,7 +65,7 @@ The goblin species source does not determine Zira's occupation, personality, int
 - **Established working palette value in this character file:** skin `#B6B769`.
 
 
-### Working HEX palette — sampled from approved T-POSE card
+### Established HEX palette
 
 The values below are the **established palette for Zira in this character file** and should be used consistently in future drafts. They are design HEX specifications, not claims about physically measured colors. Lighting and shading may change their rendered appearance.
 
@@ -80,7 +80,7 @@ The values below are the **established palette for Zira in this character file**
 | Metal — gold | `#DCA646` | T-POSE presentation reference; jewelry remains variable |
 | Mouth / tongue — muted pink | `#EC988D` | T-POSE palette reference |
 
-For consistency, reuse these HEX values as the current palette guide unless the user approves revised values. Do not describe them as physically measured or permanently canonical.
+Use these HEX values consistently for Zira unless the user approves a revision. The skin, hair, and iris colors are established character-palette values. Outfit, jewelry, and mouth/tongue colors remain presentation references rather than locked identity colors.
 
 ## 3. Approved values and measurements
 
@@ -120,7 +120,7 @@ The following dimensions were accepted by the user through review of Zira's tech
 - This is a temporary presentation choice for the technical sheet, not an established everyday outfit or identity feature.
 - Clothing, jewelry, props, hairstyle arrangement, expression, pose, camera, lighting, and background remain variable unless separately approved.
 
-## 5. Character Lock — provisional
+## 5. Character Lock — ACTIVE
 
 ### FIXED — species-level constraints
 - Goblin species.
@@ -133,7 +133,7 @@ The following dimensions were accepted by the user through review of Zira's tech
 - Cartoon — uproszczony style, consistent with the goblin source.
 - Female goblins may tend toward fuller hips and rounded buttocks; this is a tendency, not a rigid rule for every individual.
 
-### PROVISIONAL — current Zira concept
+### FIXED — Zira-specific identity
 - Name: Zira.
 - Age: 19 years.
 - Female goblin presentation.
@@ -141,24 +141,25 @@ The following dimensions were accepted by the user through review of Zira's tech
 - Amber/golden eyes, using the established HEX palette in Section 2.
 - Height: 108 cm, user-approved design value.
 - Pronounced waist-to-hip contrast and visibly wide hips, as requested.
-- The generated front, side, and back views are a working visual proposal only.
+- The approved T-POSE front, side, and back views are the active visual reference for identity and proportions.
 
 ### REMOVABLE / VARIABLE
 - Outfit and accessories.
-- Hairstyle arrangement and loose strands.
+- Hair length may vary from short to long; the T-POSE high ponytail with loose face-framing strands remains the default hairstyle.
 - Facial expression, pose, camera, lighting, and background.
 - Technical annotations and dimension lines.
 
 ### NOT ESTABLISHED — do not invent
 - Additional measurements not listed in Section 3.
 - Exact body circumferences and widths.
-- No additional color values beyond the established palette in Section 2.
+- Do not invent additional color values beyond the established palette in Section 2.
 - Permanent markings, scars, tattoos, or jewelry.
 - Occupation, community, culture, family, and personal history.
 - Magical abilities or training.
 - Any extra anatomy, including horns or a tail.
-- Outfit and jewelry remain variable; hairstyle arrangement may vary, with the T-POSE ponytail as the default and overall hair length allowed to change.
-- Established skin, hair, and iris HEX values in Section 2 are the character palette.
+- Outfit and jewelry remain variable.
+- Hair length may vary; use the T-POSE ponytail as the default hairstyle.
+- Skin, hair, and iris HEX values in Section 2 are established character-palette values.
 
 ## 6. Goblin anatomy compliance
 
@@ -182,8 +183,8 @@ General rules drawn from `World/races/GOBLIN.md` on branch `World`:
 - **Approved visual reference:** the generated T-POSE sheet with front, left profile, right profile, back, face expressions, details, palette, and measurement panel.
 - **Visual status:** accepted as the approved visual reference for the current T-POSE stage.
 - **Numeric-data status:** the dimensions listed in Section 3 are accepted for use in Zira's current design and technical cards. Height (108 cm) and bust circumference (78 cm) are explicitly approved design values; their approval does not imply physical measurement.
-- **Character Lock:** visual acceptance does not by itself confirm every outfit/accessory as permanent; fixed versus variable elements remain governed by the sections above.
-- **Canonical source status:** the visual T-POSE has passed review. Height and bust circumference are user-approved design values; other measurements are governed by the accepted-value table in Section 3.
+- **Character Lock:** ACTIVE. Fixed identity, established palette, default hairstyle, approved dimensions, and variable elements are defined in Section 5; outfit and jewelry are not locked.
+- **Canonical source status:** the visual T-POSE has passed review. Height and bust circumference are user-approved design values; all dimensions in Section 3 are accepted design-sheet values. Measurement points follow the approved T-POSE card.
 
 ## 8. Presentation defaults
 
