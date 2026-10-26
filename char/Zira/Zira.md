@@ -36,8 +36,10 @@ The goblin species source does not determine Zira's occupation, personality, int
 
 ### Hair
 - Red/orange hair, shown in a high ponytail with loose face-framing strands in the generated concept.
-- **Working palette reference (visual estimate from the approved T-POSE color swatches):** base hair `#C23E2F`; shadow hair `#7C2E22`. These HEX values are approximate digital samples from the displayed palette, not source-authored color specifications.
-- Exact hue tolerances, texture, and whether this hairstyle is fixed: NOT ESTABLISHED by a canonical character source.
+- **Established palette values in this character file:** base hair `#C23E2F`; shadow hair `#7C2E22`.
+- Default hairstyle: the high ponytail with loose face-framing strands shown on the approved T-POSE card.
+- Hair length may vary within the general range of short-to-long hairstyles, provided Zira remains recognizable and the red/orange palette is preserved.
+- Exact texture and specific length for any individual illustration: variable unless separately specified.
 
 ### Ears
 - Very long, pointed ears, emphasized in the concept.
@@ -47,8 +49,8 @@ The goblin species source does not determine Zira's occupation, personality, int
 ### Face and eyes
 - Green skin, large amber/golden eyes, and a simplified cartoon face appear in the generated concept.
 - The species source supports smooth green skin, large expressive eyes, and expressive facial features.
-- Specific eye color and exact facial design are provisional rather than species-defined facts.
-- **Working palette reference (visual estimate):** amber/gold iris `#C8741E`. This HEX value is an approximate digital sample from the approved T-POSE palette, not a source-authored color specification.
+- Specific eye color and exact facial design are character-specific visual traits established by the approved T-POSE reference and working HEX palette below; these are not species-defined facts.
+- **Established palette value in this character file:** amber/gold iris `#C8741E`.
 - Small fangs may be visible when smiling or opening the mouth widely; they should not protrude constantly by default.
 
 ### Goblin anatomy
@@ -60,23 +62,23 @@ The goblin species source does not determine Zira's occupation, personality, int
 ### Skin / surface
 - Green, smooth skin consistent with the goblin species source.
 - The concept uses an olive/lime green tone.
-- **Working palette reference (visual estimate from the approved T-POSE color swatch):** skin `#B6B769`. This HEX value is an approximate digital sample from the displayed palette, not a source-authored color specification.
+- **Established working palette value in this character file:** skin `#B6B769`.
 
 
 ### Working HEX palette — sampled from approved T-POSE card
 
-The values below are practical **approximate digital samples** of the color swatches shown on the approved T-POSE card. They standardize a working palette for future drafts; they are **not** exact canonical values measured from a source file with a color-managed workflow. Lighting, shading, display differences, and image compression may affect appearance.
+The values below are the **established palette for Zira in this character file** and should be used consistently in future drafts. They are design HEX specifications, not claims about physically measured colors. Lighting and shading may change their rendered appearance.
 
 | Palette role | HEX | Status |
 |---|---|---|
-| Skin — olive/lime base | `#B6B769` | Working visual estimate; not formally color-locked |
-| Hair — red/orange base | `#C23E2F` | Working visual estimate; not formally color-locked |
-| Hair — dark shadow | `#7C2E22` | Working visual estimate; not formally color-locked |
-| Eyes — amber/gold iris | `#C8741E` | Working visual estimate; not formally color-locked |
-| Main outfit — dark brown | `#473C38` | Presentation color on the technical sheet; outfit remains variable |
-| Secondary cloth — warm light beige | `#E5D4C4` | Working visual estimate; outfit remains variable |
-| Metal — gold | `#DCA646` | Working visual estimate; jewelry remains variable |
-| Mouth / tongue — muted pink | `#EC988D` | Working visual estimate |
+| Skin — olive/lime base | `#B6B769` | ESTABLISHED — character palette |
+| Hair — red/orange base | `#C23E2F` | ESTABLISHED — character palette |
+| Hair — dark shadow | `#7C2E22` | ESTABLISHED — character palette |
+| Eyes — amber/gold iris | `#C8741E` | ESTABLISHED — character palette |
+| Main outfit — dark brown | `#473C38` | T-POSE presentation reference; outfit remains variable |
+| Secondary cloth — warm light beige | `#E5D4C4` | T-POSE presentation reference; outfit remains variable |
+| Metal — gold | `#DCA646` | T-POSE presentation reference; jewelry remains variable |
+| Mouth / tongue — muted pink | `#EC988D` | T-POSE palette reference |
 
 For consistency, reuse these HEX values as the current palette guide unless the user approves revised values. Do not describe them as physically measured or permanently canonical.
 
@@ -135,9 +137,9 @@ The following dimensions were accepted by the user through review of Zira's tech
 - Name: Zira.
 - Age: 19 years.
 - Female goblin presentation.
-- Red/orange high ponytail.
-- Amber/golden eyes.
-- Concept height label: 108 cm.
+- Default hairstyle: red/orange high ponytail as shown on the approved T-POSE card; overall hair length may vary.
+- Amber/golden eyes, using the established HEX palette in Section 2.
+- Height: 108 cm, user-approved design value.
 - Pronounced waist-to-hip contrast and visibly wide hips, as requested.
 - The generated front, side, and back views are a working visual proposal only.
 
@@ -150,12 +152,13 @@ The following dimensions were accepted by the user through review of Zira's tech
 ### NOT ESTABLISHED — do not invent
 - Additional measurements not listed in Section 3.
 - Exact body circumferences and widths.
-- Exact canonical eye, hair, and skin HEX values; the working estimates in Section 2 are not formally color-locked.
+- No additional color values beyond the established palette in Section 2.
 - Permanent markings, scars, tattoos, or jewelry.
 - Occupation, community, culture, family, and personal history.
 - Magical abilities or training.
 - Any extra anatomy, including horns or a tail.
-- Whether the provisional hairstyle, eye color, outfit, and exact proportions are permanently locked.
+- Outfit and jewelry remain variable; hairstyle arrangement may vary, with the T-POSE ponytail as the default and overall hair length allowed to change.
+- Established skin, hair, and iris HEX values in Section 2 are the character palette.
 
 ## 6. Goblin anatomy compliance
 
@@ -186,6 +189,8 @@ General rules drawn from `World/races/GOBLIN.md` on branch `World`:
 
 - Use **Cartoon — uproszczony**, following the goblin species source.
 - Keep the head relatively large and the face expressive.
+- Use the T-POSE high ponytail with loose face-framing strands as the default hairstyle; overall hair length may vary.
+- Preserve the established skin, hair, and iris HEX values from Section 2.
 - Preserve long pointed ears and smooth green skin.
 - Keep hands and feet large and generally human in structure.
 - Maintain the requested visibly wider-hip silhouette in the current Zira concept unless the user changes it.
