@@ -122,3 +122,97 @@ Dokument definiuje **uniwersalną metodę pracy**, a nie kanoniczną anatomię �
 **Przykład zastosowania:** `char/Elara/ELARA.md` może być źródłem parametrów Elary, ale jego wymiary i cechy nie są domyślnymi parametrami innych postaci.
 
 **Uwaga:** zapis procedury nie zatwierdza żadnej ilustracji, nie tworzy automatycznie kart źródłowych i nie zmienia Character Lock.
+
+## 7. Wzorcowy Layout Karty Technicznej — obowiązkowy
+
+Ta sekcja uzupełnia wymagania rozdziału 4. Określa stały układ prezentacji, nie anatomię żadnej konkretnej postaci. Stosuj ją domyślnie przy tworzeniu technicznych kart anatomii/manekinów, chyba że użytkownik lub właściwy test jawnie określa inny układ.
+
+### 7.1 Stała struktura planszy
+
+Domyślna plansza powinna zawierać:
+
+1. **Nagłówek:** nazwa/ID postaci, gatunek lub typ, nazwa kanonicznego źródła, status/wariant karty i wersja, jeśli są znane.
+2. **Źródła odniesienia:** krótka lista rzeczywiście użytych źródeł z zachowaniem ich hierarchii. Nie wymieniaj pliku jako sprawdzonego, jeśli nie został odczytany.
+3. **Widoki główne:** przód, profil boczny i tył, każdy w całości i w możliwie wspólnej skali.
+4. **Panel detali:** zbliżenia cech istotnych dla tożsamości i anatomii konkretnej postaci.
+5. **Tabela wymiarów podstawowych:** komplet wartości wymaganych przez źródło lub dany test, wraz z jednostkami i statusem danych.
+6. **Legenda i adnotacje:** czytelne linie wymiarowe, punkty odniesienia, jednostki oraz oznaczenie szacunków i danych nieustalonych.
+
+Układ może być dostosowany do anatomii, proporcji kadru i wymagań testu, ale nie może pomijać elementów wymaganych wprost przez aktywne źródło lub specjalistyczną procedurę.
+
+### 7.2 Siatka powierzchniowa
+
+Jeśli karta ma służyć ocenie anatomii lub proporcji, siatka powierzchniowa jest obowiązkowa, o ile nie koliduje z anatomią lub jawnym wymaganiem testu.
+
+- Siatka powinna być widoczna na całej odpowiednio odsłoniętej powierzchni ciała we wszystkich głównych widokach.
+- Powinna podążać za objętością i konturem ciała, zamiast wyglądać jak płaski wzór nałożony na obraz.
+- Musi obejmować nietypową i integralną anatomię, np. ogon, rogi, skrzydła, dodatkowe kończyny, nietypowe stopy lub inne elementy — jeśli występują i są częścią źródłowej anatomii.
+- Linie siatki nie mogą zasłaniać punktów pomiarowych, krytycznych konturów ani utrudniać odczytu proporcji.
+- Jeżeli strój lub osłona uniemożliwia ocenę powierzchni ciała, użyj neutralnego manekina albo stroju technicznego zgodnego z celem testu. Nie zmieniaj anatomii, by dopasować ją do stroju.
+
+### 7.3 Wymiary i linie pomiarowe
+
+- Każdy wymagany pomiar powinien mieć czytelną linię odniesienia lub jednoznacznie wskazany punkt pomiarowy, podpis i jednostkę.
+- Wymiary należy umieszczać tak, by nie zasłaniały sylwetki ani nie nachodziły na inne etykiety.
+- Zachowuj nazwy, jednostki i definicje pomiarów podane w źródle.
+- Odróżniaj **wartość źródłową**, **szacunek koncepcyjny** i **wartość nieustaloną**. Szacunek nie może być przedstawiony jako pomiar potwierdzony.
+- Nie wolno wymyślać brakujących wartości w celu wypełnienia tabeli lub upiększenia planszy. Wpisz „NIEUSTALONE” albo pomiń wartość, zgodnie z wymaganiami konkretnego testu.
+- Nie wyprowadzaj dokładnych wymiarów fizycznych z samej ilustracji. Obraz pozwala na kontrolę wizualną, nie zastępuje pomiaru technicznego.
+- Przed generowaniem przygotuj listę pól tabeli i ich wartości/statusów na podstawie źródeł. Nie pozostawiaj generatorowi decyzji, jakie liczby ma dopisać.
+
+### 7.4 Widoki i skala
+
+- Widoki z przodu, boku i tyłu powinny pokazywać całą postać, o ile format i zadanie na to pozwalają.
+- Utrzymuj wspólną skalę i porównywalne ustawienie kamery; ogranicz perspektywiczne zniekształcenia.
+- Wybierz neutralną A-pose lub T-pose, zgodnie z aktywnym źródłem i anatomią postaci.
+- Sprawdź liczbę kończyn, ich położenie, stronność, punkty styku z podłożem oraz integralne elementy anatomii.
+- Jeśli nie można pokazać pełnej postaci lub zachować wspólnej skali, jawnie oznacz ograniczenie; nie sugeruj, że warunek został spełniony.
+
+### 7.5 Panel detali
+
+Dobierz zbliżenia do cech rzeczywiście występujących i istotnych dla konkretnej postaci. Mogą obejmować twarz, profil głowy, oczy, uszy, rogi, zęby, dłonie, stopy, ogon, skrzydła, powierzchnię skóry lub inne cechy źródłowe.
+
+Nie dodawaj detali wyłącznie dla wypełnienia pustego miejsca. Każdy detal musi być zgodny z aktywnym źródłem, a jego podpis nie może sugerować niepotwierdzonej cechy.
+
+### 7.6 Wzorzec kompozycji a źródło tożsamości
+
+- Zatwierdzona karta innej postaci może służyć wyłącznie jako wzorzec kompozycji/layoutu, jeśli użytkownik jawnie wskazał ją w tym celu.
+- Nie kopiuj z niej anatomii, proporcji, wymiarów, wieku, cech gatunkowych, stroju ani innych danych postaci.
+- Źródło layoutu nie zastępuje Active T-POSE Source konkretnej postaci.
+- Gdy obraz referencyjny nie jest przekazywany generatorowi, opisz wymagany układ tekstowo; nie zakładaj, że generator ma dostęp do samego pliku.
+- Priorytet mają wymagania aktywnego źródła, bieżącego testu i niniejszej procedury. Jeśli są sprzeczne, zatrzymaj pracę i wyjaśnij konflikt.
+
+### 7.7 Kontrola kompletności promptu przed generowaniem
+
+Przed wydaniem komendy generowania sprawdź, czy prompt jawnie określa:
+
+- [ ] ID postaci i aktywne źródło;
+- [ ] stałe cechy i Character Lock;
+- [ ] cel karty oraz wymagane widoki;
+- [ ] siatkę powierzchniową i obszary, które ma obejmować;
+- [ ] listę detali do pokazania;
+- [ ] listę wymiarów, wartości, jednostki i status każdego pola;
+- [ ] rozmieszczenie linii pomiarowych, podpisów i tabeli;
+- [ ] styl, tło, skalę, kadr i układ planszy;
+- [ ] cechy zakazane lub nieustalone, których generator nie może dopowiadać;
+- [ ] sposób kontroli wyniku po generowaniu.
+
+Jeśli krytyczne źródło lub parametr jest niedostępny, nie wypełniaj luki domysłem. Zastosuj nadrzędną regułę: **STOP — NIE ZGADUJ — NIE GENERUJ.**
+
+### 7.8 Kontrola po wygenerowaniu: statusy rozdzielone
+
+Przy kartach technicznych raportuj osobno, gdy mają zastosowanie:
+
+- **LAYOUT PASS / PARTIAL / FAIL** — zgodność struktury planszy, widoków, siatki, detali i czytelności;
+- **ANATOMY PASS / PARTIAL / FAIL** — zgodność anatomii i proporcji z aktywnym źródłem;
+- **DATA PASS / PARTIAL / FAIL** — zgodność tabeli i etykiet z udokumentowanymi wartościami oraz poprawne oznaczenie danych nieustalonych;
+- **FULL PASS** — wyłącznie gdy wszystkie wymagane kontrole zakończyły się pozytywnie i nie ma nierozstrzygniętych krytycznych niezgodności.
+
+Statusy cząstkowe nie zastępują końcowego werdyktu wymaganego przez Generation Control. Dobry layout nie dowodzi poprawności anatomii ani wymiarów. Wygenerowana karta nie staje się automatycznie kanonicznym źródłem, T-POSE ani Character Lock.
+
+---
+
+## Zaktualizowana zasada operacyjna
+
+**Dla karty technicznej nie wystarczy ogólnie poprosić o „manekin z wymiarami”.** Prompt ma określić układ planszy, widoki, siatkę, detale, pełną listę pól pomiarowych oraz źródłowy status każdej wartości. Po generowaniu należy osobno ocenić layout, anatomię i dane; pełny PASS wymaga pozytywnego wyniku wszystkich wymaganych bramek.
+
