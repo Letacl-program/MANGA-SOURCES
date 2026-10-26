@@ -36,7 +36,8 @@ The goblin species source does not determine Zira's occupation, personality, int
 
 ### Hair
 - Red/orange hair, shown in a high ponytail with loose face-framing strands in the generated concept.
-- Exact hue, length, texture, and whether this hairstyle is fixed: NOT ESTABLISHED by a canonical character source.
+- **Working palette reference (visual estimate from the approved T-POSE color swatches):** base hair `#C23E2F`; shadow hair `#7C2E22`. These HEX values are approximate digital samples from the displayed palette, not source-authored color specifications.
+- Exact hue tolerances, texture, and whether this hairstyle is fixed: NOT ESTABLISHED by a canonical character source.
 
 ### Ears
 - Very long, pointed ears, emphasized in the concept.
@@ -47,6 +48,7 @@ The goblin species source does not determine Zira's occupation, personality, int
 - Green skin, large amber/golden eyes, and a simplified cartoon face appear in the generated concept.
 - The species source supports smooth green skin, large expressive eyes, and expressive facial features.
 - Specific eye color and exact facial design are provisional rather than species-defined facts.
+- **Working palette reference (visual estimate):** amber/gold iris `#C8741E`. This HEX value is an approximate digital sample from the approved T-POSE palette, not a source-authored color specification.
 - Small fangs may be visible when smiling or opening the mouth widely; they should not protrude constantly by default.
 
 ### Goblin anatomy
@@ -57,7 +59,26 @@ The goblin species source does not determine Zira's occupation, personality, int
 
 ### Skin / surface
 - Green, smooth skin consistent with the goblin species source.
-- The concept uses an olive/lime green tone. Exact HEX values: NOT ESTABLISHED.
+- The concept uses an olive/lime green tone.
+- **Working palette reference (visual estimate from the approved T-POSE color swatch):** skin `#B6B769`. This HEX value is an approximate digital sample from the displayed palette, not a source-authored color specification.
+
+
+### Working HEX palette — sampled from approved T-POSE card
+
+The values below are practical **approximate digital samples** of the color swatches shown on the approved T-POSE card. They standardize a working palette for future drafts; they are **not** exact canonical values measured from a source file with a color-managed workflow. Lighting, shading, display differences, and image compression may affect appearance.
+
+| Palette role | HEX | Status |
+|---|---|---|
+| Skin — olive/lime base | `#B6B769` | Working visual estimate; not formally color-locked |
+| Hair — red/orange base | `#C23E2F` | Working visual estimate; not formally color-locked |
+| Hair — dark shadow | `#7C2E22` | Working visual estimate; not formally color-locked |
+| Eyes — amber/gold iris | `#C8741E` | Working visual estimate; not formally color-locked |
+| Main outfit — dark brown | `#473C38` | Presentation color on the technical sheet; outfit remains variable |
+| Secondary cloth — warm light beige | `#E5D4C4` | Working visual estimate; outfit remains variable |
+| Metal — gold | `#DCA646` | Working visual estimate; jewelry remains variable |
+| Mouth / tongue — muted pink | `#EC988D` | Working visual estimate |
+
+For consistency, reuse these HEX values as the current palette guide unless the user approves revised values. Do not describe them as physically measured or permanently canonical.
 
 ## 3. Approved values and measurements
 
@@ -129,7 +150,7 @@ The following dimensions were accepted by the user through review of Zira's tech
 ### NOT ESTABLISHED — do not invent
 - Additional measurements not listed in Section 3.
 - Exact body circumferences and widths.
-- Exact eye, hair, and skin HEX values.
+- Exact canonical eye, hair, and skin HEX values; the working estimates in Section 2 are not formally color-locked.
 - Permanent markings, scars, tattoos, or jewelry.
 - Occupation, community, culture, family, and personal history.
 - Magical abilities or training.
