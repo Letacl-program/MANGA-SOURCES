@@ -225,3 +225,21 @@ W kolejnych promptach można przywoływać wszystkie powyższe adnotacje, ale ka
 - **Nieustalone** — brak wartości w źródłach.
 
 Nie przepisuj adnotacji karty do kategorii „potwierdzony pomiar” bez jawnej akceptacji wartości lub pomiaru technicznego.
+
+
+## 11. Hierarchia źródeł kanonicznych — obowiązująca
+
+Dla postaci AZRA obowiązuje następująca hierarchia źródeł:
+
+1. **`char/AZRA.md` — nadrzędne źródło kanoniczne.** Określa tożsamość postaci, Character Lock, stałe cechy wyglądu, anatomię, zatwierdzone parametry oraz status danych.
+2. **Karta T-POSE — źródło wizualne podporządkowane AZRA.md.** Służy do prezentacji wyglądu, sylwetki, proporcji i detali postaci. Nie zmienia samodzielnie danych kanonicznych.
+
+### Reguły rozstrzygania
+- W razie sprzeczności między `AZRA.md` a kartą T-POSE pierwszeństwo ma `AZRA.md`.
+- Karta T-POSE może ilustrować dane kanoniczne, ale nie może po cichu nadpisywać ani uzupełniać ich jako faktów.
+- Wartości widoczne na karcie T-POSE, których nie potwierdza `AZRA.md`, należy oznaczać jako **adnotacje karty / szacunki do weryfikacji**, a nie jako potwierdzone pomiary.
+- Brakujących wymiarów nie wolno zgadywać ani wyprowadzać jako precyzyjnych danych fizycznych wyłącznie z ilustracji.
+- Aktualizacja danych kanonicznych wymaga jawnego zatwierdzenia lub nowego źródła zaakceptowanego przez użytkownika.
+- Przy tworzeniu promptów i nowych ilustracji najpierw stosuj Character Lock oraz dane z `AZRA.md`, a dopiero potem używaj karty T-POSE jako wzorca wizualnego.
+
+**Status:** hierarchia zatwierdzona przez użytkownika i obowiązuje w kolejnych pracach nad Azrą.
