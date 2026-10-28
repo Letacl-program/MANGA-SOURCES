@@ -137,3 +137,91 @@ Braki można uzupełnić dopiero na podstawie nowych pomiarów, jawnie zatwierdz
 ---
 
 **Zasada nadrzędna:** zachowuj tożsamość Azry i dane źródłowe. Styl, poza, oświetlenie oraz strój mogą zmieniać prezentację, ale nie powinny zmieniać jej zatwierdzonych cech ani anatomii. Nie zgaduj brakujących wymiarów.
+
+
+## 10. Pełny odczyt zaakceptowanej karty T-POSE
+
+Ta sekcja uzupełnia profil o wszystkie widoczne na zaakceptowanej karcie Azry wartości, etykiety i panele. Rozróżnia dane z pierwotnego opisu od wartości, które pojawiły się dopiero na wygenerowanej planszy. Liczby z ilustracji należy traktować jako **adnotacje wizualne / szacunki do weryfikacji**, nie jako pomiary fizyczne.
+
+### 10.1 Dane liczbowe z pierwotnego opisu użytkownika
+
+| Parametr | Wartość źródłowa | Status |
+|---|---:|---|
+| Wzrost | ok. 175 cm | szacunek podany w opisie |
+| Długość włosów | ok. 40 cm | szacunek podany w opisie |
+| Obwód talii | ok. 65 cm | szacunek podany w opisie |
+| Obwód bioder | ok. 105 cm | szacunek podany w opisie |
+| Rozmiar biustonosza | ok. 90E/F | szacunek rozmiaru, nie pomiar obwodu biustu |
+
+### 10.2 Wszystkie dodatkowe wartości widoczne na wygenerowanej karcie
+
+Poniższe liczby zostały odczytane z zaakceptowanej planszy. Nie były podane w pierwotnym opisie, więc pozostają **wartościami z karty do potwierdzenia**.
+
+| Etykieta na karcie | Wartość na karcie | Uwagi |
+|---|---:|---|
+| Wzrost | 175 cm | zgodny z przybliżonym wzrostem z opisu |
+| Wysokość do oczu (szac.) | 160 cm | szacunek z ilustracji |
+| Długość głowy | 23 cm (13%) | adnotacja z ilustracji; sposób pomiaru nieokreślony |
+| Szerokość barków | 40 cm | adnotacja z ilustracji |
+| Długość tułowia | 58 cm (33%) | adnotacja z ilustracji |
+| Długość nóg | 94 cm (54%) | adnotacja z ilustracji |
+| Długość stopy | 25 cm | adnotacja z ilustracji |
+| Obwód biustu | 110 cm | pojawia się na ilustracji z dopiskiem „90E/F”; wymaga weryfikacji i nie jest automatycznie równoważny rozmiarowi 90E/F |
+| Obwód talii | 65 cm | zgodny z szacunkiem z opisu |
+| Obwód bioder | 105 cm | zgodny z szacunkiem z opisu |
+| Obwód uda (u nasady) | ok. 58 cm | adnotacja z ilustracji |
+| Obwód łydki (szac.) | 36 cm | adnotacja z ilustracji |
+| Obwód kostki (szac.) | 22 cm | adnotacja z ilustracji |
+| Szerokość bioder (zew.) | ok. 38 cm | adnotacja z ilustracji; punkt pomiaru nieopisany |
+| Głębokość klatki piersiowej | 25 cm | adnotacja z ilustracji |
+| Głębokość głowy | 23 cm | adnotacja z ilustracji |
+| Długość dłoni | 18 cm | panel „Dłonie i stopy” |
+| Masa ciała | brak wartości | niepodana na karcie |
+| Długość ogona | — | nie dotyczy / brak ogona w opisie Azry |
+
+**Rozbieżność do rozstrzygnięcia:** karta graficzna podaje „Obwód biustu 110 cm” i jednocześnie „90E/F”, natomiast opis źródłowy określa jedynie szacunkowy rozmiar 90E/F. Nie należy traktować tych zapisów jako zweryfikowanego, spójnego pomiaru. Do czasu osobnego potwierdzenia zachowuj 90E/F jako szacunek z opisu, a 110 cm jako adnotację wygenerowanej karty.
+
+### 10.3 Panele detali obecne na planszy
+
+- **Głowa — przód:** ciemnozielone oczy, ciemne brwi, pełne ciemnoróżowe usta, miękkie policzki, arystokratyczne rysy.
+- **Głowa — bok:** profil nosa, czoła, ust, brody i linia włosów.
+- **Głowa — tył:** długość i układ włosów z tyłu głowy.
+- **Oczy:** ciemnozielona tęczówka, ciemna obwódka, naturalne oko bez świecenia.
+- **Usta:** pełne, ciemnoróżowe; niewielkie rozcięcie dolnej wargi.
+- **Ucho:** panel detalu ucha; pierwotny opis nie określa szczególnych cech anatomicznych ucha.
+- **Torso — przód:** przepaska na biuście, proporcja klatki piersiowej i brzucha.
+- **Torso — tył:** układ złotawych run wzdłuż kręgosłupa.
+- **Runy — zbliżenie:** cienkie, złotawe, wyblakłe linie; wzór dokładny nieustalony poza ogólną lokalizacją.
+- **Sylwetka — biust:** pełny, ciężki, naturalnie opadający; opis źródłowy szacuje rozmiar na 90E/F.
+- **Sylwetka — talia:** wyraźne wcięcie, ok. 65 cm według szacunku źródłowego.
+- **Sylwetka — biodra:** szerokie, miękkie krągłości, ok. 105 cm według szacunku źródłowego.
+- **Sylwetka — uda:** pełne i miękkie, lekko stykające się u góry.
+- **Sylwetka — pośladki:** pełne, okrągłe i jędrne.
+- **Dłonie:** panel dłoni z przodu i z tyłu; długość 18 cm widnieje na ilustracji i wymaga potwierdzenia.
+- **Stopy:** widok stopy; długość 25 cm widnieje na ilustracji i wymaga potwierdzenia.
+- **Włosy:** widok z przodu i z tyłu; kruczoczarne, granatowe refleksy, ok. 40 cm, lekko falowane, rozpuszczone i chaotyczne.
+- **Skóra:** ciepła oliwkowa powierzchnia z połyskiem i sugerowanym mikrokrążeniem.
+- **Runy nekromantyczne:** wyblakłe złoto, uśpione; na kręgosłupie, przedramionach i wokół bioder.
+- **Ubiór:** przepaska na biuście oraz sportowe szorty.
+
+### 10.4 Układ całej planszy zaakceptowanej jako PASS
+
+1. Nagłówek „AZRA — T-POSE — KARTA POSTACI”.
+2. Metryka projektu, typu postaci, rasy/natury i wersji.
+3. Trzy główne widoki: przód, bok, tył.
+4. Linie wymiarowe i podpisy przy sylwetce.
+5. Prawy panel „Detale” z głową, okiem, ustami, uchem, torsem i runami.
+6. Panel „Sylwetka (zbliżenia)” obejmujący biust, talię, biodra, uda i pośladki.
+7. Panel „Dłonie i stopy”.
+8. Dolne panele „Włosy”, „Skóra”, „Runy nekromantyczne” i „Ubiór”.
+9. Tabela „Wymiary podstawowe (z opisu i analizy)”.
+10. Uproszczony styl Cartoon, wyraźne kontury, płaskie plamy cienia, jasne tło i polskie etykiety.
+
+### 10.5 Zasada użycia wymiarów z karty
+
+W kolejnych promptach można przywoływać wszystkie powyższe adnotacje, ale każda liczba musi zachować swój status:
+- **Źródło użytkownika** — wartość podana bezpośrednio w opisie.
+- **Adnotacja karty** — liczba widoczna na zaakceptowanej ilustracji, jeszcze niezweryfikowana pomiarem.
+- **Nieustalone** — brak wartości w źródłach.
+
+Nie przepisuj adnotacji karty do kategorii „potwierdzony pomiar” bez jawnej akceptacji wartości lub pomiaru technicznego.
