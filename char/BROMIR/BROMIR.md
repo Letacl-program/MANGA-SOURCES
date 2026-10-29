@@ -21,7 +21,7 @@ Ta karta dokumentuje Bromira Żelaznobrodego w obrębie bieżącej rozmowy. Wzro
 
 Karta T-POSE została zaakceptowana przez użytkownika jako **PASS**. Wygenerowana karta ma jednak jedną rozbieżność liczbową: obwód uda to 44 cm na oznaczeniu widoku bocznego oraz 64 cm w tabeli. Do czasu jawnej korekty oba zapisy należy zachować jako rozbieżność źródłową, a obwodu uda nie uznawać za ostatecznie ustalony parametr.
 
-Wygenerowana karta zawiera również wartości oznaczone niżej jako robocze. Akceptacja karty jako PASS potwierdza jej przyjęcie jako źródła wizualnego, ale nie usuwa ujawnionych niespójności liczbowych ani nie ustala danych, których nie było w źródłach.
+Wygenerowana karta zawiera również wartości oznaczone niżej jako robocze. Akceptacja karty jako PASS potwierdza jej przyjęcie jako źródła wizualnego. Użytkownik rozstrzygnął rozbieżność obwodu uda na 64 cm; oznaczenie 44 cm na widoku bocznym jest błędem grafiki.
 
 ## 2. Character Check
 
@@ -110,6 +110,7 @@ Nie normalizować Bromira do smukłej, wysokiej sylwetki człowieka. Jednocześn
 - Zachować dużą objętość brody we wszystkich ujęciach, także profilowych i od tyłu.
 
 ### Twarz
+- Kolor oczu: srebrny.
 - Szeroki nos.
 - Krzaczaste, rude brwi.
 - Mocna szczęka, wyraziste policzki.
@@ -186,7 +187,6 @@ Nie używać tych opisów jako potwierdzonych kodów HEX.
 
 **Nie dopowiadać bez źródła:**
 - wieku;
-- koloru oczu;
 - dokładnego koloru skóry w HEX;
 - blizn, tatuaży i innych znaków szczególnych;
 - obwodu uda do czasu rozstrzygnięcia sprzeczności 44/64 cm;
